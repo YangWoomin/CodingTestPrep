@@ -14,12 +14,42 @@
     <ClInclude Include="permutation.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="array_control.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="choose_two_nums_and_add.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="give_up_math.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="array_multiply.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="failure_rate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="permutation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array_control.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="choose_two_nums_and_add.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="give_up_math.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array_multiply.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="failure_rate.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

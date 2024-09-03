@@ -129,9 +129,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="array_control.h" />
+    <ClInclude Include="array_multiply.h" />
+    <ClInclude Include="choose_two_nums_and_add.h" />
+    <ClInclude Include="failure_rate.h" />
+    <ClInclude Include="give_up_math.h" />
     <ClInclude Include="permutation.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="array_control.cpp" />
+    <ClCompile Include="array_multiply.cpp" />
+    <ClCompile Include="choose_two_nums_and_add.cpp" />
+    <ClCompile Include="failure_rate.cpp" />
+    <ClCompile Include="give_up_math.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="permutation.cpp" />
   </ItemGroup>
