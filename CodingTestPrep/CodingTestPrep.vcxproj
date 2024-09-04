@@ -129,16 +129,24 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="tests.h" />
+    <ClInclude Include="array_test.h" />
+    <ClInclude Include="stack_test.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="array_control.cpp" />
     <ClCompile Include="array_multiply.cpp" />
+    <ClCompile Include="bracket_match.cpp" />
     <ClCompile Include="choose_two_nums_and_add.cpp" />
+    <ClCompile Include="decimal_to_binary.cpp" />
+    <ClCompile Include="edit_table.cpp" />
     <ClCompile Include="failure_rate.cpp" />
     <ClCompile Include="give_up_math.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="permutation.cpp" />
+    <ClCompile Include="pick_up_dolls.cpp" />
+    <ClCompile Include="remove_pair.cpp" />
+    <ClCompile Include="rotate_bracket.cpp" />
+    <ClCompile Include="stock_price.cpp" />
     <ClCompile Include="visit_len.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

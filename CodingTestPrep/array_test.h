@@ -6,5 +6,4 @@ void ArrayMultiplyTest();
 void ChooseTwoNumsAndAddTest();
 void FailureRateTest();
 void GiveUpMathTest();
-
 void VisitLenTest();

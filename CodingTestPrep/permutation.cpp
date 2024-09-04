@@ -1,5 +1,5 @@
 
-#include	"tests.h"
+#include	"array_test.h"
 
 #include	<iostream>
 #include	<algorithm>

@@ -9,36 +9,66 @@
       <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
       <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
     </Filter>
+    <Filter Include="Source Files\array">
+      <UniqueIdentifier>{a08bd024-deca-4f3b-882b-cf4ec21bf80c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\stack">
+      <UniqueIdentifier>{58127662-1daf-4f9c-b69f-d55da0684048}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="tests.h">
+    <ClInclude Include="array_test.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stack_test.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="permutation.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="array_control.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="choose_two_nums_and_add.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="give_up_math.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\array</Filter>
     </ClCompile>
     <ClCompile Include="array_multiply.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\array</Filter>
+    </ClCompile>
+    <ClCompile Include="choose_two_nums_and_add.cpp">
+      <Filter>Source Files\array</Filter>
     </ClCompile>
     <ClCompile Include="failure_rate.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\array</Filter>
+    </ClCompile>
+    <ClCompile Include="give_up_math.cpp">
+      <Filter>Source Files\array</Filter>
+    </ClCompile>
+    <ClCompile Include="permutation.cpp">
+      <Filter>Source Files\array</Filter>
     </ClCompile>
     <ClCompile Include="visit_len.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\array</Filter>
+    </ClCompile>
+    <ClCompile Include="bracket_match.cpp">
+      <Filter>Source Files\stack</Filter>
+    </ClCompile>
+    <ClCompile Include="decimal_to_binary.cpp">
+      <Filter>Source Files\stack</Filter>
+    </ClCompile>
+    <ClCompile Include="rotate_bracket.cpp">
+      <Filter>Source Files\stack</Filter>
+    </ClCompile>
+    <ClCompile Include="remove_pair.cpp">
+      <Filter>Source Files\stack</Filter>
+    </ClCompile>
+    <ClCompile Include="stock_price.cpp">
+      <Filter>Source Files\stack</Filter>
+    </ClCompile>
+    <ClCompile Include="pick_up_dolls.cpp">
+      <Filter>Source Files\stack</Filter>
+    </ClCompile>
+    <ClCompile Include="edit_table.cpp">
+      <Filter>Source Files\stack</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
