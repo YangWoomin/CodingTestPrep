@@ -1,5 +1,5 @@
 
-#include	"permutation.h"
+#include	"tests.h"
 
 #include	<iostream>
 #include	<algorithm>

@@ -1,5 +1,5 @@
 
-#include	"give_up_math.h"
+#include	"tests.h"
 
 #include	<iostream>
 #include	<vector>

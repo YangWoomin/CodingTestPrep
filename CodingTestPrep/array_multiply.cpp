@@ -1,5 +1,5 @@
 
-#include	"array_multiply.h"
+#include	"tests.h"
 
 #include	<iostream>
 #include	<vector>

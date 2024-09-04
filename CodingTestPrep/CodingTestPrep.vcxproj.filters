@@ -11,22 +11,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="permutation.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="array_control.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="choose_two_nums_and_add.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="give_up_math.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="array_multiply.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="failure_rate.h">
+    <ClInclude Include="tests.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -50,6 +35,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="failure_rate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="visit_len.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

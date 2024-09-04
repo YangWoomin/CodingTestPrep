@@ -1,5 +1,5 @@
 
-#include	"failure_rate.h"
+#include	"tests.h"
 
 #include	<iostream>
 #include	<vector>

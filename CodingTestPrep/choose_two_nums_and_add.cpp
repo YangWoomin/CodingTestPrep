@@ -1,5 +1,5 @@
 
-#include	"choose_two_nums_and_add.h"
+#include	"tests.h"
 
 #include	<iostream>
 #include	<vector>

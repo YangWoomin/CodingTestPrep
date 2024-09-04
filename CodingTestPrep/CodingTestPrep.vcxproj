@@ -129,12 +129,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="array_control.h" />
-    <ClInclude Include="array_multiply.h" />
-    <ClInclude Include="choose_two_nums_and_add.h" />
-    <ClInclude Include="failure_rate.h" />
-    <ClInclude Include="give_up_math.h" />
-    <ClInclude Include="permutation.h" />
+    <ClInclude Include="tests.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="array_control.cpp" />
@@ -144,6 +139,7 @@
     <ClCompile Include="give_up_math.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="permutation.cpp" />
+    <ClCompile Include="visit_len.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
