@@ -15,12 +15,18 @@
     <Filter Include="Source Files\stack">
       <UniqueIdentifier>{58127662-1daf-4f9c-b69f-d55da0684048}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\queue">
+      <UniqueIdentifier>{eed37405-d0a4-4367-9879-aa510ba5976a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="array_test.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="stack_test.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="queue_test.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -69,6 +75,15 @@
     </ClCompile>
     <ClCompile Include="edit_table.cpp">
       <Filter>Source Files\stack</Filter>
+    </ClCompile>
+    <ClCompile Include="josephus.cpp">
+      <Filter>Source Files\queue</Filter>
+    </ClCompile>
+    <ClCompile Include="function_develop.cpp">
+      <Filter>Source Files\queue</Filter>
+    </ClCompile>
+    <ClCompile Include="trucks_on_bridge.cpp">
+      <Filter>Source Files\queue</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

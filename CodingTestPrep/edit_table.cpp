@@ -104,11 +104,158 @@ static std::string solution1(int n, int k, const std::vector<std::string>& cmd) 
     return answer;
 }
 
+static std::string solution2(int n, int k, const std::vector<std::string>& cmd) {
+    std::string answer(n, 'O');
+    std::stack<int> undo;
+    int max = n - 1;
+
+    for (const auto& ele : cmd)
+    {
+        if ('D' == ele[0])
+        {
+            int offset = std::atoi(ele.substr(2).c_str());
+            int base = k;
+            while (k <= base + offset)
+            {
+                if ('X' == answer[k])
+                {
+                    offset++;
+                }
+                else if (k == base + offset)
+                {
+                    break;
+                }
+                k++;
+            }
+        }
+        else if ('U' == ele[0])
+        {
+            int offset = std::atoi(ele.substr(2).c_str());
+            int base = k;
+            while (k >= base - offset)
+            {
+                if ('X' == answer[k])
+                {
+                    offset++;
+                }
+                else if (k == base - offset)
+                {
+                    break;
+                }
+                k--;
+            }
+        }
+        else if ('C' == ele[0])
+        {
+            undo.push(k);
+            answer[k] = 'X';
+
+            if (max == k)
+            {
+                while ('X' == answer[--k]);
+                max = k;
+            }
+            else
+            {
+                while ('X' == answer[++k]);
+            }
+        }
+        else // 'Z' == ele[0]
+        {
+            int last = undo.top();
+            answer[last] = 'O';
+            undo.pop();
+
+            if (last > max)
+            {
+                max = last;
+            }
+        }
+    }
+
+    return answer;
+}
+
+static std::string solution3(int n, int k, const std::vector<std::string>& cmd) {
+    std::string answer(n, 'O');
+
+    std::vector<int> up(n);
+    std::vector<int> down(n);
+    for (int i = 0; i < n; ++i)
+    {
+        up[i] = i - 1;
+        down[i] = i + 1;
+    }
+
+    std::stack<int> undo;
+    int max = n - 1;
+
+    for (const auto& ele : cmd)
+    {
+        if ('U' == ele[0])
+        {
+            int offset = std::atoi(ele.substr(2).c_str());
+            for (int i = 0; i < offset; ++i)
+            {
+                k = up[k];
+            }
+        }
+        else if ('D' == ele[0])
+        {
+            int offset = std::atoi(ele.substr(2).c_str());
+            for (int i = 0; i < offset; ++i)
+            {
+                k = down[k];
+            }
+        }
+        else if ('C' == ele[0])
+        {
+            undo.push(k);
+            answer[k] = 'X';
+
+            if (max == k)
+            {
+                k = up[k];
+                max = k;
+            }
+            else
+            {
+                up[down[k]] = up[k];
+                if (0 <= up[k])
+                {
+                    down[up[k]] = down[k];
+                }
+                k = down[k];
+            }
+        }
+        else
+        {
+            int last = undo.top();
+            undo.pop();
+            answer[last] = 'O';
+
+            if (last < max)
+            {
+                up[down[last]] = last;
+                down[up[last]] = last;
+            }
+            else
+            {
+                max = last;
+            }
+        }
+    }
+
+    return answer;
+}
+
 void EditTableTest()
 {
-    int n = 8, k = 2;
-    std::vector<std::string> cmd = { "D 2", "C", "U 3", "C", "D 4", "C", "U 2", "Z", "Z" };
+    //int n = 8, k = 2;
+    //std::vector<std::string> cmd = { "D 2", "C", "U 3", "C", "D 4", "C", "U 2", "Z", "Z" };
     //std::vector<std::string> cmd = { "D 2", "C", "U 3", "C", "D 4", "C", "U 2", "Z", "Z", "U 1", "C" };
+    int n = 5, k = 0;
+    std::vector<std::string> cmd = { "C", "C", "C", "C", "C", "Z" };
 
     std::cout << "====================== Edit Table Test Start ======================" << std::endl;
 
@@ -125,7 +272,7 @@ void EditTableTest()
     }
     std::cout << std::endl;
     
-    std::string res = solution1(n, k, cmd);
+    std::string res = solution3(n, k, cmd);
 
     std::cout << "Result : " << res << std::endl;
 

@@ -4,6 +4,7 @@
 
 #include	"array_test.h"
 #include	"stack_test.h"
+#include	"queue_test.h"
 
 void main()
 {
@@ -23,5 +24,10 @@ void main()
 	//RemovePairTest();
 	//StockPriceTest();
 	//PickUpDollsTest();
-	EditTableTest();
+	//EditTableTest();
+
+	// queue test
+	//JosephusTest();
+	//FunctionDevelopTest();
+	TrucksOnBridgeTest();
 }

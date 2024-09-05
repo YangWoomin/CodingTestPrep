@@ -130,6 +130,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="array_test.h" />
+    <ClInclude Include="queue_test.h" />
     <ClInclude Include="stack_test.h" />
   </ItemGroup>
   <ItemGroup>
@@ -140,13 +141,16 @@
     <ClCompile Include="decimal_to_binary.cpp" />
     <ClCompile Include="edit_table.cpp" />
     <ClCompile Include="failure_rate.cpp" />
+    <ClCompile Include="function_develop.cpp" />
     <ClCompile Include="give_up_math.cpp" />
+    <ClCompile Include="josephus.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="permutation.cpp" />
     <ClCompile Include="pick_up_dolls.cpp" />
     <ClCompile Include="remove_pair.cpp" />
     <ClCompile Include="rotate_bracket.cpp" />
     <ClCompile Include="stock_price.cpp" />
+    <ClCompile Include="trucks_on_bridge.cpp" />
     <ClCompile Include="visit_len.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
