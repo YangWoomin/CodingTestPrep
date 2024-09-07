@@ -40,7 +40,7 @@ static std::vector<int> solution1(const std::vector<int>& prices)
 
 void StockPriceTest()
 {
-    std::vector<int> arr = { 1, 2, 3, 2, 3 };
+    std::vector<int> arr = { 1, 2, 3, 2, 3 }; // [4, 3, 1, 1, 0]
 
     std::cout << "====================== Stock Price Test Start ======================" << std::endl;
 

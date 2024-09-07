@@ -45,10 +45,10 @@ static std::vector<int> solution1(int N, std::vector<int>& stages)
 void FailureRateTest()
 {
 	int N = 5;
-	std::vector<int> stages = { 2, 1, 2, 6, 2, 4, 3, 3 };
+	std::vector<int> stages = { 2, 1, 2, 6, 2, 4, 3, 3 }; // [3,4,2,1,5]
 
 	/*int N = 4;
-	std::vector<int> stages = { 4, 4, 4, 4, 4 };*/
+	std::vector<int> stages = { 4, 4, 4, 4, 4 }; // 4,1,2,3] */
 
 	std::cout << "====================== Failure Rate Test Start ======================" << std::endl;
 

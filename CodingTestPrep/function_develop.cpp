@@ -58,9 +58,9 @@ static std::vector<int> solution2(std::vector<int> progresses, std::vector<int> 
 void FunctionDevelopTest()
 {
     /*std::vector<int> progresses = { 93, 30, 55 };
-    std::vector<int> speeds = { 1, 30, 5 };*/
+    std::vector<int> speeds = { 1, 30, 5 }; // [2, 1] */
     std::vector<int> progresses = { 95, 90, 99, 99, 80, 99 };
-    std::vector<int> speeds = { 1, 1, 1, 1, 1, 1 };
+    std::vector<int> speeds = { 1, 1, 1, 1, 1, 1 }; // [1, 3, 2]
 
     std::cout << "====================== Function Develop Test Start ======================" << std::endl;
 

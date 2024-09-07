@@ -33,8 +33,8 @@ static bool solution1(std::string& s)
 
 void RemovePairTest()
 {
-    //std::string s = "baabaa";
-    std::string s = "cdcd";
+    //std::string s = "baabaa"; // 1
+    std::string s = "cdcd"; // 0
 
     std::cout << "====================== Remove Pair Test Start ======================" << std::endl;
 

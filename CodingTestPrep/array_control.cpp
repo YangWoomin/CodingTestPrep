@@ -26,9 +26,9 @@ static std::vector<int> solution2(std::vector<int> lst)
 
 void ArrayControlTest()
 {
-	std::vector<int> arr = { 4, 5, 2, 9, 4, 3, 3, 2, 1, 7, 9, 8 };
+	std::vector<int> arr = { 4, 5, 2, 9, 4, 3, 3, 2, 1, 7, 9, 8 }; // 9 8 7 5 4 3 2 1
 
-	std::cout << "====================== Array Test Start ======================" << std::endl;
+	std::cout << "====================== Array Control Test Start ======================" << std::endl;
 
 	std::cout << "Test Array : ";
 	for (const auto& ele : arr)
@@ -53,5 +53,5 @@ void ArrayControlTest()
 	}
 	std::cout << std::endl;
 
-	std::cout << "====================== Array Test End ======================" << std::endl;
+	std::cout << "====================== Array Control Test End ======================" << std::endl;
 }

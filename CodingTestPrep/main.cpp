@@ -5,6 +5,7 @@
 #include	"array_test.h"
 #include	"stack_test.h"
 #include	"queue_test.h"
+#include	"hash_test.h"
 
 void main()
 {
@@ -16,6 +17,7 @@ void main()
 	//ArrayMultiplyTest();
 	//FailureRateTest();
 	//VisitLenTest();
+	//ArrayCutTest();
 
 	// stack test
 	//BracketMatchTest();
@@ -25,9 +27,16 @@ void main()
 	//StockPriceTest();
 	//PickUpDollsTest();
 	//EditTableTest();
+	//CorrectBracketTest();
 
 	// queue test
 	//JosephusTest();
 	//FunctionDevelopTest();
-	TrucksOnBridgeTest();
+	//TrucksOnBridgeTest();
+	//CardBundleTest();
+
+	// hash test
+	//SpecificValueFromTwoValuesTest();
+	//StringSearchTest();
+	FailedMarathonerTest();
 }

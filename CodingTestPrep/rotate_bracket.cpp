@@ -122,10 +122,10 @@ static int solution2(std::string s) {
 
 void RotateBracketTest()
 {
-    std::string s = "[](){}";
-    //std::string s = "}]()[{";
-    //std::string s = "[)(]";
-    //std::string s = "}}}";
+    std::string s = "[](){}"; // 3
+    //std::string s = "}]()[{"; // 2
+    //std::string s = "[)(]"; // 0
+    //std::string s = "}}}"; // 0
 
     std::cout << "====================== Rotate Bracket Test Start ======================" << std::endl;
 

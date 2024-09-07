@@ -26,11 +26,11 @@ static std::vector<std::vector<int>> solution1(const std::vector<std::vector<int
 
 void ArrayMultiplyTest()
 {
-	/*std::vector<std::vector<int>> arr1 = { {1, 4}, {3, 2}, {4, 1} };
-	std::vector<std::vector<int>> arr2 = { {3, 3}, {3, 3} };*/
+	//std::vector<std::vector<int>> arr1 = { {1, 4}, {3, 2}, {4, 1} };
+	//std::vector<std::vector<int>> arr2 = { {3, 3}, {3, 3} }; // 	[[15, 15], [15, 15], [15, 15]]
 
 	std::vector<std::vector<int>> arr1 = { {2, 3, 2}, {4, 2, 4}, {3, 1, 4} };
-	std::vector<std::vector<int>> arr2 = { {5, 4, 3}, {2, 4, 1}, {3, 1, 1} };
+	std::vector<std::vector<int>> arr2 = { {5, 4, 3}, {2, 4, 1}, {3, 1, 1} }; // [[22, 22, 11], [36, 28, 18], [29, 20, 14]]
 	
 	std::cout << "====================== Array Multiply Test Start ======================" << std::endl;
 

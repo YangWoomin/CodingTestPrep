@@ -27,9 +27,9 @@ static std::string solution1(int decimal)
 
 void DecimalToBinaryTest()
 {
-	//int decimal = 10;
-	//int decimal = 27;
-	int decimal = 12345;
+	//int decimal = 10; // "1010"
+	//int decimal = 27; // "11011"
+	int decimal = 12345; // "11000000111001"
 
 	std::cout << "====================== Decimal to Binary Test Start ======================" << std::endl;
 

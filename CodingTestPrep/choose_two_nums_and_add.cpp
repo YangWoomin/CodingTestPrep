@@ -22,8 +22,8 @@ static std::vector<int> solution1(std::vector<int> arr)
 
 void ChooseTwoNumsAndAddTest()
 {
-	//std::vector<int> arr = { 2, 1, 3, 4, 1 };
-	std::vector<int> arr = { 5, 0, 2, 7 };
+	//std::vector<int> arr = { 2, 1, 3, 4, 1 }; // [2,3,4,5,6,7]
+	std::vector<int> arr = { 5, 0, 2, 7 }; // [2,5,7,9,12]
 
 	std::cout << "====================== Choose Two Nums And Add Test Start ======================" << std::endl;
 

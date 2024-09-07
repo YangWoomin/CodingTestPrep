@@ -67,7 +67,7 @@ static int solution2(int n, int k)
 
 void JosephusTest()
 {
-	int n = 5, k = 2;
+	int n = 5, k = 2; // 3
 
 	std::cout << "====================== Josephus Test Start ======================" << std::endl;
 

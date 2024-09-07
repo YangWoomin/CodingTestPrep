@@ -25,8 +25,8 @@ static bool solution1(const std::string& s)
 
 void BracketMatchTest()
 {
-	//std::string s = "(())()";
-	std::string s = "((())()";
+	//std::string s = "(())()"; // true
+	std::string s = "((())()"; // flase
 
 	std::cout << "====================== Bracket Match Test Start ======================" << std::endl;
 

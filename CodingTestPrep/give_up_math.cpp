@@ -47,8 +47,8 @@ void GiveUpMathTest()
 	std::vector<int> user2 = { 2, 1, 2, 3, 2, 4, 2, 5 };
 	std::vector<int> user3 = { 3, 3, 1, 1, 2, 2, 4, 4, 5, 5 };
 
-	//std::vector<int> answers = { 1, 2, 3, 4, 5 };
-	std::vector<int> answers = { 1, 3, 2, 4, 2 };
+	//std::vector<int> answers = { 1, 2, 3, 4, 5 }; // [1]
+	std::vector<int> answers = { 1, 3, 2, 4, 2 }; // [1,2,3]
 
 	std::cout << "====================== Give Up Math Test Start ======================" << std::endl;
 

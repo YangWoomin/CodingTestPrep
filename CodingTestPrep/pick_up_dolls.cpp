@@ -70,7 +70,7 @@ void PickUpDollsTest()
         { 3,5,1,3,1 }
     };
 
-    std::vector<int> moves = { 1, 5, 3, 5, 1, 2, 1, 4 };
+    std::vector<int> moves = { 1, 5, 3, 5, 1, 2, 1, 4 }; // 4
 
     std::cout << "====================== Pick Up Dolls Test Start ======================" << std::endl;
 

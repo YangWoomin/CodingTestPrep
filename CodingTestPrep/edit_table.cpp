@@ -251,11 +251,9 @@ static std::string solution3(int n, int k, const std::vector<std::string>& cmd) 
 
 void EditTableTest()
 {
-    //int n = 8, k = 2;
-    //std::vector<std::string> cmd = { "D 2", "C", "U 3", "C", "D 4", "C", "U 2", "Z", "Z" };
-    //std::vector<std::string> cmd = { "D 2", "C", "U 3", "C", "D 4", "C", "U 2", "Z", "Z", "U 1", "C" };
-    int n = 5, k = 0;
-    std::vector<std::string> cmd = { "C", "C", "C", "C", "C", "Z" };
+    int n = 8, k = 2;
+    //std::vector<std::string> cmd = { "D 2", "C", "U 3", "C", "D 4", "C", "U 2", "Z", "Z" }; // "OOOOXOOO"
+    std::vector<std::string> cmd = { "D 2", "C", "U 3", "C", "D 4", "C", "U 2", "Z", "Z", "U 1", "C" }; // "OOXOXOOO"
 
     std::cout << "====================== Edit Table Test Start ======================" << std::endl;
 
