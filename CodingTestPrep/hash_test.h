@@ -17,3 +17,9 @@ void PhoneBookTest();
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/131127
 void MartSaleTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/42888
+void OpenChatTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/42579
+void BestAlbumTest();

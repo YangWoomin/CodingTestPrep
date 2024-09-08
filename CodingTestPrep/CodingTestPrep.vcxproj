@@ -138,6 +138,7 @@
     <ClCompile Include="array_control.cpp" />
     <ClCompile Include="array_cut.cpp" />
     <ClCompile Include="array_multiply.cpp" />
+    <ClCompile Include="best_album.cpp" />
     <ClCompile Include="bracket_match.cpp" />
     <ClCompile Include="card_bundle.cpp" />
     <ClCompile Include="choose_two_nums_and_add.cpp" />
@@ -151,6 +152,7 @@
     <ClCompile Include="josephus.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="mart_sale.cpp" />
+    <ClCompile Include="open_chat.cpp" />
     <ClCompile Include="phone_book.cpp" />
     <ClCompile Include="specific_value_from_two_values.cpp" />
     <ClCompile Include="permutation.cpp" />

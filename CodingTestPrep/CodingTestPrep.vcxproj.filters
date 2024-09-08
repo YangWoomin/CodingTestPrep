@@ -118,5 +118,11 @@
     <ClCompile Include="mart_sale.cpp">
       <Filter>Source Files\hash</Filter>
     </ClCompile>
+    <ClCompile Include="open_chat.cpp">
+      <Filter>Source Files\hash</Filter>
+    </ClCompile>
+    <ClCompile Include="best_album.cpp">
+      <Filter>Source Files\hash</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

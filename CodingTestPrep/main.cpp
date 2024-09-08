@@ -41,5 +41,7 @@ void main()
 	//FailedMarathonerTest();
 	//WordChainGameTest();
 	//PhoneBookTest();
-	MartSaleTest();
+	//MartSaleTest();
+	//OpenChatTest();
+	BestAlbumTest();
 }
