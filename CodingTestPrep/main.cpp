@@ -38,5 +38,8 @@ void main()
 	// hash test
 	//SpecificValueFromTwoValuesTest();
 	//StringSearchTest();
-	FailedMarathonerTest();
+	//FailedMarathonerTest();
+	//WordChainGameTest();
+	//PhoneBookTest();
+	MartSaleTest();
 }

@@ -109,5 +109,14 @@
     <ClCompile Include="card_bundle.cpp">
       <Filter>Source Files\queue</Filter>
     </ClCompile>
+    <ClCompile Include="word_chain_game.cpp">
+      <Filter>Source Files\hash</Filter>
+    </ClCompile>
+    <ClCompile Include="phone_book.cpp">
+      <Filter>Source Files\hash</Filter>
+    </ClCompile>
+    <ClCompile Include="mart_sale.cpp">
+      <Filter>Source Files\hash</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
