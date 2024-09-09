@@ -23,3 +23,9 @@ void OpenChatTest();
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/42579
 void BestAlbumTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/92334
+void ReportMailTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/72411
+void MenuRenewalTest();

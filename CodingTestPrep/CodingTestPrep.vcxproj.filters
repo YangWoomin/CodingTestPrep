@@ -124,5 +124,11 @@
     <ClCompile Include="best_album.cpp">
       <Filter>Source Files\hash</Filter>
     </ClCompile>
+    <ClCompile Include="report_mail.cpp">
+      <Filter>Source Files\hash</Filter>
+    </ClCompile>
+    <ClCompile Include="menu_renewal.cpp">
+      <Filter>Source Files\hash</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -43,5 +43,7 @@ void main()
 	//PhoneBookTest();
 	//MartSaleTest();
 	//OpenChatTest();
-	BestAlbumTest();
+	//BestAlbumTest();
+	//ReportMailTest();
+	MenuRenewalTest();
 }

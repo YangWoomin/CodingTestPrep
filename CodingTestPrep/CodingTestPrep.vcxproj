@@ -152,8 +152,10 @@
     <ClCompile Include="josephus.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="mart_sale.cpp" />
+    <ClCompile Include="menu_renewal.cpp" />
     <ClCompile Include="open_chat.cpp" />
     <ClCompile Include="phone_book.cpp" />
+    <ClCompile Include="report_mail.cpp" />
     <ClCompile Include="specific_value_from_two_values.cpp" />
     <ClCompile Include="permutation.cpp" />
     <ClCompile Include="pick_up_dolls.cpp" />
