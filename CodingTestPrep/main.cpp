@@ -6,6 +6,7 @@
 #include	"stack_test.h"
 #include	"queue_test.h"
 #include	"hash_test.h"
+#include	"tree_test.h"
 
 void main()
 {
@@ -47,5 +48,11 @@ void main()
 	//ReportMailTest();
 	//MenuRenewalTest();
 	//ClothesCombinationTest();
-	CompressionTest();
+	//CompressionTest();
+
+	// tree test
+	//TreeSearchTest();
+	//BinaryTreeSearchImplTest();
+	//PredictMatchTest();
+	PyramidToothbrushSellTest();
 }

@@ -133,12 +133,14 @@
     <ClInclude Include="hash_test.h" />
     <ClInclude Include="queue_test.h" />
     <ClInclude Include="stack_test.h" />
+    <ClInclude Include="tree_test.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="array_control.cpp" />
     <ClCompile Include="array_cut.cpp" />
     <ClCompile Include="array_multiply.cpp" />
     <ClCompile Include="best_album.cpp" />
+    <ClCompile Include="binary_tree_search_impl.cpp" />
     <ClCompile Include="bracket_match.cpp" />
     <ClCompile Include="card_bundle.cpp" />
     <ClCompile Include="choose_two_nums_and_add.cpp" />
@@ -157,6 +159,8 @@
     <ClCompile Include="menu_renewal.cpp" />
     <ClCompile Include="open_chat.cpp" />
     <ClCompile Include="phone_book.cpp" />
+    <ClCompile Include="predict_match.cpp" />
+    <ClCompile Include="pyramid_toothbrush_sell.cpp" />
     <ClCompile Include="report_mail.cpp" />
     <ClCompile Include="specific_value_from_two_values.cpp" />
     <ClCompile Include="permutation.cpp" />
@@ -165,6 +169,7 @@
     <ClCompile Include="rotate_bracket.cpp" />
     <ClCompile Include="stock_price.cpp" />
     <ClCompile Include="string_search.cpp" />
+    <ClCompile Include="tree_search.cpp" />
     <ClCompile Include="trucks_on_bridge.cpp" />
     <ClCompile Include="visit_len.cpp" />
     <ClCompile Include="word_chain_game.cpp" />

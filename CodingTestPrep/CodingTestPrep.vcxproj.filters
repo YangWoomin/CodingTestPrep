@@ -21,6 +21,9 @@
     <Filter Include="Source Files\hash">
       <UniqueIdentifier>{43431ad5-725f-45b7-845e-062b21980f21}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\tree">
+      <UniqueIdentifier>{df3ee443-3bee-4f39-a65b-728193690d6e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="array_test.h">
@@ -33,6 +36,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="hash_test.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="tree_test.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -135,6 +141,18 @@
     </ClCompile>
     <ClCompile Include="compression.cpp">
       <Filter>Source Files\hash</Filter>
+    </ClCompile>
+    <ClCompile Include="tree_search.cpp">
+      <Filter>Source Files\tree</Filter>
+    </ClCompile>
+    <ClCompile Include="binary_tree_search_impl.cpp">
+      <Filter>Source Files\tree</Filter>
+    </ClCompile>
+    <ClCompile Include="predict_match.cpp">
+      <Filter>Source Files\tree</Filter>
+    </ClCompile>
+    <ClCompile Include="pyramid_toothbrush_sell.cpp">
+      <Filter>Source Files\tree</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
