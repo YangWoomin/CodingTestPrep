@@ -29,3 +29,9 @@ void ReportMailTest();
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/72411
 void MenuRenewalTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/42578
+void ClothesCombinationTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/17684
+void CompressionTest();

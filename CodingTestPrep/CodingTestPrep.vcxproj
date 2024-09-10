@@ -142,6 +142,8 @@
     <ClCompile Include="bracket_match.cpp" />
     <ClCompile Include="card_bundle.cpp" />
     <ClCompile Include="choose_two_nums_and_add.cpp" />
+    <ClCompile Include="clothes_combination.cpp" />
+    <ClCompile Include="compression.cpp" />
     <ClCompile Include="correct_bracket.cpp" />
     <ClCompile Include="decimal_to_binary.cpp" />
     <ClCompile Include="edit_table.cpp" />

@@ -130,5 +130,11 @@
     <ClCompile Include="menu_renewal.cpp">
       <Filter>Source Files\hash</Filter>
     </ClCompile>
+    <ClCompile Include="clothes_combination.cpp">
+      <Filter>Source Files\hash</Filter>
+    </ClCompile>
+    <ClCompile Include="compression.cpp">
+      <Filter>Source Files\hash</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

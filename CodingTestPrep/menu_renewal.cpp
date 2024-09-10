@@ -132,5 +132,5 @@ void MenuRenewalTest()
     }
     std::cout << "]" << std::endl;
 
-    std::cout << "====================== Menu Renewal Game Test End ======================" << std::endl;
+    std::cout << "====================== Menu Renewal Test End ======================" << std::endl;
 }

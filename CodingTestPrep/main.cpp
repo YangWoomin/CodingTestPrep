@@ -45,5 +45,7 @@ void main()
 	//OpenChatTest();
 	//BestAlbumTest();
 	//ReportMailTest();
-	MenuRenewalTest();
+	//MenuRenewalTest();
+	//ClothesCombinationTest();
+	CompressionTest();
 }

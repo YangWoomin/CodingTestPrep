@@ -81,5 +81,5 @@ void ReportMailTest()
     }
     std::cout << "]" << std::endl;
 
-	std::cout << "====================== Report Mail Game Test End ======================" << std::endl;
+	std::cout << "====================== Report Mail Test End ======================" << std::endl;
 }
