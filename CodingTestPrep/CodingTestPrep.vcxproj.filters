@@ -154,5 +154,8 @@
     <ClCompile Include="pyramid_toothbrush_sell.cpp">
       <Filter>Source Files\tree</Filter>
     </ClCompile>
+    <ClCompile Include="path_find_game.cpp">
+      <Filter>Source Files\tree</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

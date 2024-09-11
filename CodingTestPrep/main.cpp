@@ -54,5 +54,6 @@ void main()
 	//TreeSearchTest();
 	//BinaryTreeSearchImplTest();
 	//PredictMatchTest();
-	PyramidToothbrushSellTest();
+	//PyramidToothbrushSellTest();
+	PathFindGameTest();
 }

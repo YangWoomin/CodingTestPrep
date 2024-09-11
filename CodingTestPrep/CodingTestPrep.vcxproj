@@ -158,6 +158,7 @@
     <ClCompile Include="mart_sale.cpp" />
     <ClCompile Include="menu_renewal.cpp" />
     <ClCompile Include="open_chat.cpp" />
+    <ClCompile Include="path_find_game.cpp" />
     <ClCompile Include="phone_book.cpp" />
     <ClCompile Include="predict_match.cpp" />
     <ClCompile Include="pyramid_toothbrush_sell.cpp" />
