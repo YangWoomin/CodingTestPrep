@@ -14,3 +14,6 @@ void PyramidToothbrushSellTest();
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/42892
 void PathFindGameTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/43238#
+void ImmigrationInspectionTest();

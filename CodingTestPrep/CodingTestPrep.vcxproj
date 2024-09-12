@@ -153,6 +153,7 @@
     <ClCompile Include="failure_rate.cpp" />
     <ClCompile Include="function_develop.cpp" />
     <ClCompile Include="give_up_math.cpp" />
+    <ClCompile Include="immigration_inspection.cpp" />
     <ClCompile Include="josephus.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="mart_sale.cpp" />
