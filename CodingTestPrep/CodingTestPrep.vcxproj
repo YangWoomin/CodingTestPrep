@@ -132,6 +132,7 @@
     <ClInclude Include="array_test.h" />
     <ClInclude Include="hash_test.h" />
     <ClInclude Include="queue_test.h" />
+    <ClInclude Include="set_test.h" />
     <ClInclude Include="stack_test.h" />
     <ClInclude Include="tree_test.h" />
   </ItemGroup>
@@ -146,6 +147,7 @@
     <ClCompile Include="choose_two_nums_and_add.cpp" />
     <ClCompile Include="clothes_combination.cpp" />
     <ClCompile Include="compression.cpp" />
+    <ClCompile Include="connect_island.cpp" />
     <ClCompile Include="correct_bracket.cpp" />
     <ClCompile Include="decimal_to_binary.cpp" />
     <ClCompile Include="edit_table.cpp" />
@@ -161,9 +163,11 @@
     <ClCompile Include="open_chat.cpp" />
     <ClCompile Include="path_find_game.cpp" />
     <ClCompile Include="phone_book.cpp" />
+    <ClCompile Include="ponketmon.cpp" />
     <ClCompile Include="predict_match.cpp" />
     <ClCompile Include="pyramid_toothbrush_sell.cpp" />
     <ClCompile Include="report_mail.cpp" />
+    <ClCompile Include="simple_union_find.cpp" />
     <ClCompile Include="specific_value_from_two_values.cpp" />
     <ClCompile Include="permutation.cpp" />
     <ClCompile Include="pick_up_dolls.cpp" />

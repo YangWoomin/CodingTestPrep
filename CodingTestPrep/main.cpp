@@ -7,6 +7,7 @@
 #include	"queue_test.h"
 #include	"hash_test.h"
 #include	"tree_test.h"
+#include	"set_test.h"
 
 void main()
 {
@@ -57,5 +58,10 @@ void main()
 	//PyramidToothbrushSellTest();
 	//PathFindGameTest();
 	//ImmigrationInspectionTest();
-	TreeTrioMiddleValueTest();
+	//TreeTrioMiddleValueTest();
+
+	// set test
+	//SimpleUnionFindTest();
+	//PonketmonTest();
+	ConnectIslandTest();
 }

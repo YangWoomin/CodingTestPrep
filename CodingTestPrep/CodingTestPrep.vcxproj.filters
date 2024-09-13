@@ -24,6 +24,9 @@
     <Filter Include="Source Files\tree">
       <UniqueIdentifier>{df3ee443-3bee-4f39-a65b-728193690d6e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\set">
+      <UniqueIdentifier>{3ff4dae9-5aab-4732-83d2-3286616082a5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="array_test.h">
@@ -39,6 +42,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="tree_test.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="set_test.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -162,6 +168,15 @@
     </ClCompile>
     <ClCompile Include="tree_trio_middle_value.cpp">
       <Filter>Source Files\tree</Filter>
+    </ClCompile>
+    <ClCompile Include="simple_union_find.cpp">
+      <Filter>Source Files\set</Filter>
+    </ClCompile>
+    <ClCompile Include="ponketmon.cpp">
+      <Filter>Source Files\set</Filter>
+    </ClCompile>
+    <ClCompile Include="connect_island.cpp">
+      <Filter>Source Files\set</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
