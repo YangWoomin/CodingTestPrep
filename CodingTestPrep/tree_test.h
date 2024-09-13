@@ -17,3 +17,6 @@ void PathFindGameTest();
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/43238#
 void ImmigrationInspectionTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/68937
+void TreeTrioMiddleValueTest();

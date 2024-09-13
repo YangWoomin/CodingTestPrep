@@ -160,5 +160,8 @@
     <ClCompile Include="immigration_inspection.cpp">
       <Filter>Source Files\tree</Filter>
     </ClCompile>
+    <ClCompile Include="tree_trio_middle_value.cpp">
+      <Filter>Source Files\tree</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

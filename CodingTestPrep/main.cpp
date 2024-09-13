@@ -56,5 +56,6 @@ void main()
 	//PredictMatchTest();
 	//PyramidToothbrushSellTest();
 	//PathFindGameTest();
-	ImmigrationInspectionTest();
+	//ImmigrationInspectionTest();
+	TreeTrioMiddleValueTest();
 }
