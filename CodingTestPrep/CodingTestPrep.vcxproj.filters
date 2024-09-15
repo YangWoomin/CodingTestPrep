@@ -27,6 +27,9 @@
     <Filter Include="Source Files\set">
       <UniqueIdentifier>{3ff4dae9-5aab-4732-83d2-3286616082a5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\graph">
+      <UniqueIdentifier>{be26d5f6-b6ac-4d45-82af-2e500dad176b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="array_test.h">
@@ -45,6 +48,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="set_test.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="graph_test.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -177,6 +183,15 @@
     </ClCompile>
     <ClCompile Include="connect_island.cpp">
       <Filter>Source Files\set</Filter>
+    </ClCompile>
+    <ClCompile Include="dfs_search.cpp">
+      <Filter>Source Files\graph</Filter>
+    </ClCompile>
+    <ClCompile Include="bfs_search.cpp">
+      <Filter>Source Files\graph</Filter>
+    </ClCompile>
+    <ClCompile Include="dijkstra.cpp">
+      <Filter>Source Files\graph</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

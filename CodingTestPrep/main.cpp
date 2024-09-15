@@ -8,6 +8,7 @@
 #include	"hash_test.h"
 #include	"tree_test.h"
 #include	"set_test.h"
+#include	"graph_test.h"
 
 void main()
 {
@@ -63,5 +64,10 @@ void main()
 	// set test
 	//SimpleUnionFindTest();
 	//PonketmonTest();
-	ConnectIslandTest();
+	//ConnectIslandTest();
+
+	// graph test
+	//DfsSearchTest();
+	//BfsSearchTest();
+	DijkstraTest();
 }
