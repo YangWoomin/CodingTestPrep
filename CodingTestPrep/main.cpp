@@ -69,5 +69,7 @@ void main()
 	// graph test
 	//DfsSearchTest();
 	//BfsSearchTest();
-	DijkstraTest();
+	//DijkstraTest();
+	//BellmanFordTest();
+	MazeEscapeTest();
 }

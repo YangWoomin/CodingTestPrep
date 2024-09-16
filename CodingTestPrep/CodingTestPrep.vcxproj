@@ -141,6 +141,7 @@
     <ClCompile Include="array_control.cpp" />
     <ClCompile Include="array_cut.cpp" />
     <ClCompile Include="array_multiply.cpp" />
+    <ClCompile Include="bellman_ford.cpp" />
     <ClCompile Include="best_album.cpp" />
     <ClCompile Include="bfs_search.cpp" />
     <ClCompile Include="binary_tree_search_impl.cpp" />
@@ -163,6 +164,7 @@
     <ClCompile Include="josephus.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="mart_sale.cpp" />
+    <ClCompile Include="maze_escape.cpp" />
     <ClCompile Include="menu_renewal.cpp" />
     <ClCompile Include="open_chat.cpp" />
     <ClCompile Include="path_find_game.cpp" />

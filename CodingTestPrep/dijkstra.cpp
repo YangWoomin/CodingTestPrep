@@ -9,11 +9,43 @@
 #include	<queue>
 #include	<unordered_map>
 
-static std::vector<int> solution1(int start, int numNodes, std::vector<std::tuple<int, int, int>>& edges)
+static std::vector<int> solution1(int start, int numNodes, const std::vector<std::tuple<int, int, int>>& edges)
 {
-	std::vector<int> res;
+	std::vector<int> res(numNodes, INT_MAX);
 
-	
+	std::vector<std::unordered_map<int, int>> graph(numNodes);
+	for (const auto& [from, to, weight] : edges)
+	{
+		graph[from][to] = weight;
+	}
+
+	std::vector<bool> visited(numNodes, false);
+	std::priority_queue<std::pair<int, int>, std::vector<std::pair<int, int>>, std::greater<>> pq;
+	pq.push({ 0, start });
+	res[start] = 0;
+
+	while (false == pq.empty())
+	{
+		auto [cost, next] = pq.top();
+		pq.pop();
+
+		if (true == visited[next])
+		{
+			continue;
+		}
+
+		visited[next] = true;
+
+		for (const auto& [to, weight] : graph[next])
+		{
+			int newCost = res[next] + weight;
+			if (newCost < res[to])
+			{
+				res[to] = newCost;
+				pq.push({ newCost, to });
+			}
+		}
+	}
 
 	return res;
 }
