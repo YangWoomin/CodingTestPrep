@@ -166,6 +166,7 @@
     <ClCompile Include="mart_sale.cpp" />
     <ClCompile Include="maze_escape.cpp" />
     <ClCompile Include="menu_renewal.cpp" />
+    <ClCompile Include="network.cpp" />
     <ClCompile Include="open_chat.cpp" />
     <ClCompile Include="path_find_game.cpp" />
     <ClCompile Include="phone_book.cpp" />

@@ -71,5 +71,6 @@ void main()
 	//BfsSearchTest();
 	//DijkstraTest();
 	//BellmanFordTest();
-	MazeEscapeTest();
+	//MazeEscapeTest();
+	NetworkTest();
 }
