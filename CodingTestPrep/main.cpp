@@ -72,5 +72,7 @@ void main()
 	//DijkstraTest();
 	//BellmanFordTest();
 	//MazeEscapeTest();
-	NetworkTest();
+	//NetworkTest();
+	//SheepAndWolfTest();
+	DeliveryTest();
 }

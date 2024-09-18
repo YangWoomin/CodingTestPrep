@@ -153,6 +153,7 @@
     <ClCompile Include="connect_island.cpp" />
     <ClCompile Include="correct_bracket.cpp" />
     <ClCompile Include="decimal_to_binary.cpp" />
+    <ClCompile Include="delivery.cpp" />
     <ClCompile Include="dfs_search.cpp" />
     <ClCompile Include="dijkstra.cpp" />
     <ClCompile Include="edit_table.cpp" />
@@ -174,6 +175,7 @@
     <ClCompile Include="predict_match.cpp" />
     <ClCompile Include="pyramid_toothbrush_sell.cpp" />
     <ClCompile Include="report_mail.cpp" />
+    <ClCompile Include="sheep_and_wolf.cpp" />
     <ClCompile Include="simple_union_find.cpp" />
     <ClCompile Include="specific_value_from_two_values.cpp" />
     <ClCompile Include="permutation.cpp" />

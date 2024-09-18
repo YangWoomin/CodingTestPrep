@@ -202,5 +202,11 @@
     <ClCompile Include="network.cpp">
       <Filter>Source Files\graph</Filter>
     </ClCompile>
+    <ClCompile Include="sheep_and_wolf.cpp">
+      <Filter>Source Files\graph</Filter>
+    </ClCompile>
+    <ClCompile Include="delivery.cpp">
+      <Filter>Source Files\graph</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
