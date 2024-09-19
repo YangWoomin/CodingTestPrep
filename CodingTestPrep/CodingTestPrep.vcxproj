@@ -159,6 +159,7 @@
     <ClCompile Include="edit_table.cpp" />
     <ClCompile Include="failed_marathoner.cpp" />
     <ClCompile Include="failure_rate.cpp" />
+    <ClCompile Include="farthest_node.cpp" />
     <ClCompile Include="function_develop.cpp" />
     <ClCompile Include="give_up_math.cpp" />
     <ClCompile Include="immigration_inspection.cpp" />
@@ -172,6 +173,7 @@
     <ClCompile Include="path_find_game.cpp" />
     <ClCompile Include="phone_book.cpp" />
     <ClCompile Include="ponketmon.cpp" />
+    <ClCompile Include="power_network_division.cpp" />
     <ClCompile Include="predict_match.cpp" />
     <ClCompile Include="pyramid_toothbrush_sell.cpp" />
     <ClCompile Include="report_mail.cpp" />
@@ -184,6 +186,7 @@
     <ClCompile Include="rotate_bracket.cpp" />
     <ClCompile Include="stock_price.cpp" />
     <ClCompile Include="string_search.cpp" />
+    <ClCompile Include="track_construction.cpp" />
     <ClCompile Include="tree_search.cpp" />
     <ClCompile Include="tree_trio_middle_value.cpp" />
     <ClCompile Include="trucks_on_bridge.cpp" />

@@ -74,5 +74,8 @@ void main()
 	//MazeEscapeTest();
 	//NetworkTest();
 	//SheepAndWolfTest();
-	DeliveryTest();
+	//DeliveryTest();
+	//TrackConstructionTest();
+	//PowerNetworkDivisionTest();
+	FarthestNodeTest();
 }

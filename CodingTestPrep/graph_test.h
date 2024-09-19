@@ -23,3 +23,12 @@ void SheepAndWolfTest();
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/12978
 void DeliveryTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/67259
+void TrackConstructionTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/86971
+void PowerNetworkDivisionTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/49189
+void FarthestNodeTest();

@@ -208,5 +208,14 @@
     <ClCompile Include="delivery.cpp">
       <Filter>Source Files\graph</Filter>
     </ClCompile>
+    <ClCompile Include="track_construction.cpp">
+      <Filter>Source Files\graph</Filter>
+    </ClCompile>
+    <ClCompile Include="power_network_division.cpp">
+      <Filter>Source Files\graph</Filter>
+    </ClCompile>
+    <ClCompile Include="farthest_node.cpp">
+      <Filter>Source Files\graph</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
