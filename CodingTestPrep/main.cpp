@@ -77,5 +77,8 @@ void main()
 	//DeliveryTest();
 	//TrackConstructionTest();
 	//PowerNetworkDivisionTest();
-	FarthestNodeTest();
+	//FarthestNodeTest();
+	//RankingTest();
+	//TargetNumberTest();
+	TravelRouteTest();
 }

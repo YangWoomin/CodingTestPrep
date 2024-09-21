@@ -32,3 +32,12 @@ void PowerNetworkDivisionTest();
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/49189
 void FarthestNodeTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/49191
+void RankingTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/43165
+void TargetNumberTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/43164#
+void TravelRouteTest();

@@ -177,6 +177,7 @@
     <ClCompile Include="predict_match.cpp" />
     <ClCompile Include="pyramid_toothbrush_sell.cpp" />
     <ClCompile Include="report_mail.cpp" />
+    <ClCompile Include="ranking.cpp" />
     <ClCompile Include="sheep_and_wolf.cpp" />
     <ClCompile Include="simple_union_find.cpp" />
     <ClCompile Include="specific_value_from_two_values.cpp" />
@@ -186,7 +187,9 @@
     <ClCompile Include="rotate_bracket.cpp" />
     <ClCompile Include="stock_price.cpp" />
     <ClCompile Include="string_search.cpp" />
+    <ClCompile Include="target_number.cpp" />
     <ClCompile Include="track_construction.cpp" />
+    <ClCompile Include="travel_route.cpp" />
     <ClCompile Include="tree_search.cpp" />
     <ClCompile Include="tree_trio_middle_value.cpp" />
     <ClCompile Include="trucks_on_bridge.cpp" />
