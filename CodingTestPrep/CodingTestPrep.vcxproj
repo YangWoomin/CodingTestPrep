@@ -130,6 +130,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="array_test.h" />
+    <ClInclude Include="backtracking_test.h" />
     <ClInclude Include="graph_test.h" />
     <ClInclude Include="hash_test.h" />
     <ClInclude Include="queue_test.h" />
@@ -187,6 +188,8 @@
     <ClCompile Include="rotate_bracket.cpp" />
     <ClCompile Include="stock_price.cpp" />
     <ClCompile Include="string_search.cpp" />
+    <ClCompile Include="sudoku_puzzle.cpp" />
+    <ClCompile Include="sum_combination_for_10.cpp" />
     <ClCompile Include="target_number.cpp" />
     <ClCompile Include="track_construction.cpp" />
     <ClCompile Include="travel_route.cpp" />

@@ -9,6 +9,7 @@
 #include	"tree_test.h"
 #include	"set_test.h"
 #include	"graph_test.h"
+#include	"backtracking_test.h"
 
 void main()
 {
@@ -80,5 +81,9 @@ void main()
 	//FarthestNodeTest();
 	//RankingTest();
 	//TargetNumberTest();
-	TravelRouteTest();
+	//TravelRouteTest();
+
+	// backtracking test
+	//SumCombinationFor10Test();
+	SudokuPuzzleTest();
 }

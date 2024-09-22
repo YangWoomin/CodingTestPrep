@@ -30,6 +30,9 @@
     <Filter Include="Source Files\graph">
       <UniqueIdentifier>{be26d5f6-b6ac-4d45-82af-2e500dad176b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\backtracking">
+      <UniqueIdentifier>{c273831d-90ea-4640-8d99-1bceb81a9544}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="array_test.h">
@@ -51,6 +54,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="graph_test.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="backtracking_test.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -225,6 +231,12 @@
     </ClCompile>
     <ClCompile Include="travel_route.cpp">
       <Filter>Source Files\graph</Filter>
+    </ClCompile>
+    <ClCompile Include="sum_combination_for_10.cpp">
+      <Filter>Source Files\backtracking</Filter>
+    </ClCompile>
+    <ClCompile Include="sudoku_puzzle.cpp">
+      <Filter>Source Files\backtracking</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
