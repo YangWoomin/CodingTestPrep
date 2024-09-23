@@ -85,5 +85,7 @@ void main()
 
 	// backtracking test
 	//SumCombinationFor10Test();
-	SudokuPuzzleTest();
+	//SudokuPuzzleTest();
+	//DungeonFatigueTest();
+	NQueenTest();
 }

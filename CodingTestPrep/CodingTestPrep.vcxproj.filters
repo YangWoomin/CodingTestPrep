@@ -238,5 +238,11 @@
     <ClCompile Include="sudoku_puzzle.cpp">
       <Filter>Source Files\backtracking</Filter>
     </ClCompile>
+    <ClCompile Include="dungeon_fatigue.cpp">
+      <Filter>Source Files\backtracking</Filter>
+    </ClCompile>
+    <ClCompile Include="n_queen.cpp">
+      <Filter>Source Files\backtracking</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

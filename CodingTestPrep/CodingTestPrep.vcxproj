@@ -161,6 +161,7 @@
     <ClCompile Include="failed_marathoner.cpp" />
     <ClCompile Include="failure_rate.cpp" />
     <ClCompile Include="farthest_node.cpp" />
+    <ClCompile Include="dungeon_fatigue.cpp" />
     <ClCompile Include="function_develop.cpp" />
     <ClCompile Include="give_up_math.cpp" />
     <ClCompile Include="immigration_inspection.cpp" />
@@ -170,6 +171,7 @@
     <ClCompile Include="maze_escape.cpp" />
     <ClCompile Include="menu_renewal.cpp" />
     <ClCompile Include="network.cpp" />
+    <ClCompile Include="n_queen.cpp" />
     <ClCompile Include="open_chat.cpp" />
     <ClCompile Include="path_find_game.cpp" />
     <ClCompile Include="phone_book.cpp" />
