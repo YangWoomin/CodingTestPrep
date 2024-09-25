@@ -87,5 +87,7 @@ void main()
 	//SumCombinationFor10Test();
 	//SudokuPuzzleTest();
 	//DungeonFatigueTest();
-	NQueenTest();
+	//NQueenTest();
+	//ArcheryCompetitionTest();
+	ExteriorInspectionTest();
 }

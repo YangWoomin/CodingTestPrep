@@ -244,5 +244,11 @@
     <ClCompile Include="n_queen.cpp">
       <Filter>Source Files\backtracking</Filter>
     </ClCompile>
+    <ClCompile Include="archery_competition.cpp">
+      <Filter>Source Files\backtracking</Filter>
+    </ClCompile>
+    <ClCompile Include="exterior_wall_inspection.cpp">
+      <Filter>Source Files\backtracking</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
