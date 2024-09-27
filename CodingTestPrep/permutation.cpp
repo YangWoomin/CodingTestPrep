@@ -9,36 +9,36 @@ template <typename T>
 bool NextPermutation(T&& arr)
 {
 	int i = arr.size() - 2;
-	for (; i >= 0; --i)
-	{
-		if (arr[i] < arr[i + 1])
-		{
-			break;
-		}
-	}
-	
-	int j = arr.size() - 1;
-	for (; j >= 0 && i >= 0; --j)
-	{
-		if (arr[i] < arr[j])
-		{
-			break;
-		}
-	}
+    	for (; i >= 0; --i)
+    	{
+        	if (arr[i] < arr[i + 1])
+        	{
+            		break;
+        	}
+    	}
 
-	if (i < 0 || j < 0 || i == j)
-	{
-		return false;
-	}
+    	if (i < 0)
+    	{
+        	return false;
+    	}
 
-	std::swap(arr[i], arr[j]);
+    	int j = arr.size() - 1;
+    	for (; j > i; --j)
+    	{
+        	if (arr[i] < arr[j])
+        	{
+            		break;
+        	}
+    	}
 
-	for (i = i + 1, j = arr.size() - 1; i < j; ++i, --j)
-	{
-		std::swap(arr[i], arr[j]);
-	}
+    	std::swap(arr[i], arr[j]);
 
-	return true;
+    	for (i = i + 1, j = arr.size() - 1; i < j; ++i, --j)
+    	{
+        	std::swap(arr[i], arr[j]);
+    	}
+
+    	return true;
 }
 
 void PermutationTest()
