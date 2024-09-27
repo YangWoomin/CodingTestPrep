@@ -33,6 +33,9 @@
     <Filter Include="Source Files\backtracking">
       <UniqueIdentifier>{c273831d-90ea-4640-8d99-1bceb81a9544}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\sort">
+      <UniqueIdentifier>{c735e43a-5c26-4fd3-bc43-ece28ec2e9da}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="array_test.h">
@@ -57,6 +60,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="backtracking_test.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sort_test.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -255,6 +261,24 @@
     </ClCompile>
     <ClCompile Include="vowel_dictionary.cpp">
       <Filter>Source Files\backtracking</Filter>
+    </ClCompile>
+    <ClCompile Include="counting_sort.cpp">
+      <Filter>Source Files\sort</Filter>
+    </ClCompile>
+    <ClCompile Include="merge_two_arrays.cpp">
+      <Filter>Source Files\sort</Filter>
+    </ClCompile>
+    <ClCompile Include="insertion_sort.cpp">
+      <Filter>Source Files\sort</Filter>
+    </ClCompile>
+    <ClCompile Include="quick_sort.cpp">
+      <Filter>Source Files\sort</Filter>
+    </ClCompile>
+    <ClCompile Include="merge_sort.cpp">
+      <Filter>Source Files\sort</Filter>
+    </ClCompile>
+    <ClCompile Include="heap_sort.cpp">
+      <Filter>Source Files\sort</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

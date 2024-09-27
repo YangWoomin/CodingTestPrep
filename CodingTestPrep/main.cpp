@@ -10,6 +10,7 @@
 #include	"set_test.h"
 #include	"graph_test.h"
 #include	"backtracking_test.h"
+#include	"sort_test.h"
 
 void main()
 {
@@ -91,5 +92,13 @@ void main()
 	//ArcheryCompetitionTest();
 	//ExteriorInspectionTest();
 	//DisappearingFootholdTest();
-	VowelDictionaryTest();
+	//VowelDictionaryTest();
+
+	// sort test
+	//CountingSortTest();
+	//MergeTwoArraysTest();
+	//InsertionSortTest();
+	//QuickSortTest();
+	//MergeSortTest();
+	HeapSortTest();
 }

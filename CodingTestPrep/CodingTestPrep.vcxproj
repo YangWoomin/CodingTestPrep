@@ -135,6 +135,7 @@
     <ClInclude Include="hash_test.h" />
     <ClInclude Include="queue_test.h" />
     <ClInclude Include="set_test.h" />
+    <ClInclude Include="sort_test.h" />
     <ClInclude Include="stack_test.h" />
     <ClInclude Include="tree_test.h" />
   </ItemGroup>
@@ -154,6 +155,7 @@
     <ClCompile Include="compression.cpp" />
     <ClCompile Include="connect_island.cpp" />
     <ClCompile Include="correct_bracket.cpp" />
+    <ClCompile Include="counting_sort.cpp" />
     <ClCompile Include="decimal_to_binary.cpp" />
     <ClCompile Include="delivery.cpp" />
     <ClCompile Include="dfs_search.cpp" />
@@ -167,12 +169,16 @@
     <ClCompile Include="dungeon_fatigue.cpp" />
     <ClCompile Include="function_develop.cpp" />
     <ClCompile Include="give_up_math.cpp" />
+    <ClCompile Include="heap_sort.cpp" />
     <ClCompile Include="immigration_inspection.cpp" />
+    <ClCompile Include="insertion_sort.cpp" />
     <ClCompile Include="josephus.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="mart_sale.cpp" />
     <ClCompile Include="maze_escape.cpp" />
     <ClCompile Include="menu_renewal.cpp" />
+    <ClCompile Include="merge_sort.cpp" />
+    <ClCompile Include="merge_two_arrays.cpp" />
     <ClCompile Include="network.cpp" />
     <ClCompile Include="n_queen.cpp" />
     <ClCompile Include="open_chat.cpp" />
@@ -182,6 +188,7 @@
     <ClCompile Include="power_network_division.cpp" />
     <ClCompile Include="predict_match.cpp" />
     <ClCompile Include="pyramid_toothbrush_sell.cpp" />
+    <ClCompile Include="quick_sort.cpp" />
     <ClCompile Include="report_mail.cpp" />
     <ClCompile Include="ranking.cpp" />
     <ClCompile Include="sheep_and_wolf.cpp" />
