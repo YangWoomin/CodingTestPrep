@@ -158,6 +158,7 @@
     <ClCompile Include="delivery.cpp" />
     <ClCompile Include="dfs_search.cpp" />
     <ClCompile Include="dijkstra.cpp" />
+    <ClCompile Include="disappearing_foothold.cpp" />
     <ClCompile Include="edit_table.cpp" />
     <ClCompile Include="exterior_wall_inspection.cpp" />
     <ClCompile Include="failed_marathoner.cpp" />
@@ -201,6 +202,7 @@
     <ClCompile Include="tree_trio_middle_value.cpp" />
     <ClCompile Include="trucks_on_bridge.cpp" />
     <ClCompile Include="visit_len.cpp" />
+    <ClCompile Include="vowel_dictionary.cpp" />
     <ClCompile Include="word_chain_game.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

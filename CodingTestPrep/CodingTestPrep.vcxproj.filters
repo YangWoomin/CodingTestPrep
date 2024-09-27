@@ -250,5 +250,11 @@
     <ClCompile Include="exterior_wall_inspection.cpp">
       <Filter>Source Files\backtracking</Filter>
     </ClCompile>
+    <ClCompile Include="disappearing_foothold.cpp">
+      <Filter>Source Files\backtracking</Filter>
+    </ClCompile>
+    <ClCompile Include="vowel_dictionary.cpp">
+      <Filter>Source Files\backtracking</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

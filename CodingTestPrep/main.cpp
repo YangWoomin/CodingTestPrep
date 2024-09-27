@@ -89,5 +89,7 @@ void main()
 	//DungeonFatigueTest();
 	//NQueenTest();
 	//ArcheryCompetitionTest();
-	ExteriorInspectionTest();
+	//ExteriorInspectionTest();
+	//DisappearingFootholdTest();
+	VowelDictionaryTest();
 }

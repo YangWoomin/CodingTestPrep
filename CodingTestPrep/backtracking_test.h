@@ -17,3 +17,9 @@ void ArcheryCompetitionTest();
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/60062
 void ExteriorInspectionTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/92345
+void DisappearingFootholdTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/84512
+void VowelDictionaryTest();
