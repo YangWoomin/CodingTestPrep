@@ -124,5 +124,5 @@ void MazeEscapeTest()
 	auto res = solution1(maps);
 	std::cout << "Result : " << res << std::endl;
 
-	std::cout << "====================== Maze Escape Test Start ======================" << std::endl;
+	std::cout << "====================== Maze Escape Test End ======================" << std::endl;
 }

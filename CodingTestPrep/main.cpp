@@ -100,5 +100,10 @@ void main()
 	//InsertionSortTest();
 	//QuickSortTest();
 	//MergeSortTest();
-	HeapSortTest();
+	//HeapSortTest();
+	//BubbleSortTest();
+	//SortStringByMySelectionTest();
+	//SortIntegerDescTest();
+	//KthNumberTest();
+	TheBiggestNumberTest();
 }

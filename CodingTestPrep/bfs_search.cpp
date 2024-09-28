@@ -68,5 +68,5 @@ void BfsSearchTest()
 	}
 	std::cout << "]" << std::endl;
 
-	std::cout << "====================== BFS Search Test Start ======================" << std::endl;
+	std::cout << "====================== BFS Search Test End ======================" << std::endl;
 }

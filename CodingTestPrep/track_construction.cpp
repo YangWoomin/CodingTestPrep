@@ -222,5 +222,5 @@ void TrackConstructionTest()
 	auto res = solution3(board);
 	std::cout << "Result : " << res << std::endl;
 
-	std::cout << "====================== Track Construction Test Start ======================" << std::endl;
+	std::cout << "====================== Track Construction Test End ======================" << std::endl;
 }

@@ -8,17 +8,13 @@
 
 static std::vector<int> solution1(std::vector<int> arr)
 {
-    for (int i = 1; i < arr.size(); ++i)
+    for (int i = arr.size() - 1; i >= 0; --i)
     {
-        for (int j = i - 1; j >= 0; --j)
+        for (int j = 0; j < i; ++j)
         {
             if (arr[j] > arr[j + 1])
             {
                 std::swap(arr[j], arr[j + 1]);
-            }
-            else
-            {
-                break;
             }
         }
     }
@@ -26,13 +22,13 @@ static std::vector<int> solution1(std::vector<int> arr)
     return arr;
 }
 
-void InsertionSortTest()
+void BubbleSortTest()
 {
-    //std::vector<int> arr = { 51, 11, 32, 60, 56, 9 }; // [9, 11, 32, 51, 56, 60]
+    std::vector<int> arr = { 51, 11, 32, 60, 56, 9 }; // [9 11 32 51 56 60]
     //std::vector<int> arr = { 56, 9 }; // [9, 56]
-    std::vector<int> arr = { 9 }; // [9]
+    //std::vector<int> arr = { 9 }; // [9]
 
-    std::cout << "====================== Insertion Sort Test Start ======================" << std::endl;
+    std::cout << "====================== Bubble Sort Test Start ======================" << std::endl;
 
     std::cout << "Array : [ ";
     for (const auto& ele : arr)
@@ -49,5 +45,5 @@ void InsertionSortTest()
     }
     std::cout << "]" << std::endl;
 
-    std::cout << "====================== Insertion Sort Test End ======================" << std::endl;
+    std::cout << "====================== Bubble Sort Test End ======================" << std::endl;
 }

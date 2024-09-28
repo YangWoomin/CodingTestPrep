@@ -125,5 +125,5 @@ void ArcheryCompetitionTest()
     }
     std::cout << "]" << std::endl;
 
-    std::cout << "====================== Archery Competition Test Start ======================" << std::endl;
+    std::cout << "====================== Archery Competition Test End ======================" << std::endl;
 }

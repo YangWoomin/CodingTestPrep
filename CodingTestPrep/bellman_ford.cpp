@@ -80,5 +80,5 @@ void BellmanFordTest()
 	}
 	std::cout << "]" << std::endl;
 
-	std::cout << "====================== Bellman Ford Test Start ======================" << std::endl;
+	std::cout << "====================== Bellman Ford Test End ======================" << std::endl;
 }

@@ -82,6 +82,6 @@ void MergeSortTest()
     }
     std::cout << "]" << std::endl;
 
-    std::cout << "====================== Merge Sort Test Start ======================" << std::endl;
+    std::cout << "====================== Merge Sort Test End ======================" << std::endl;
 }
 

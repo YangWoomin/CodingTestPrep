@@ -87,5 +87,5 @@ void TargetNumberTest()
     auto res = solution2(numbers, target);
     std::cout << "Result : " << res << std::endl;
 
-    std::cout << "====================== Target Number Test Start ======================" << std::endl;
+    std::cout << "====================== Target Number Test End ======================" << std::endl;
 }

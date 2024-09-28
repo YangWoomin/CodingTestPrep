@@ -72,5 +72,5 @@ void HeapSortTest()
     }
     std::cout << "]" << std::endl;
 
-    std::cout << "====================== Heap Sort Test Start ======================" << std::endl;
+    std::cout << "====================== Heap Sort Test End ======================" << std::endl;
 }

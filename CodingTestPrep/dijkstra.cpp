@@ -79,5 +79,5 @@ void DijkstraTest()
 	}
 	std::cout << "]" << std::endl;
 
-	std::cout << "====================== Dijkstra Test Start ======================" << std::endl;
+	std::cout << "====================== Dijkstra Test End ======================" << std::endl;
 }

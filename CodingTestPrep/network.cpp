@@ -128,5 +128,5 @@ void NetworkTest()
 	auto res = solution2(n, computers);
 	std::cout << "Result : " << res << std::endl;
 
-	std::cout << "====================== Network Test Start ======================" << std::endl;
+	std::cout << "====================== Network Test End ======================" << std::endl;
 }

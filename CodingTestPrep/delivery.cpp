@@ -133,5 +133,5 @@ void DeliveryTest()
 	auto res = solution2(N, road, K);
 	std::cout << "Result : " << res << std::endl;
 
-	std::cout << "====================== Delivery Test Start ======================" << std::endl;
+	std::cout << "====================== Delivery Test End ======================" << std::endl;
 }

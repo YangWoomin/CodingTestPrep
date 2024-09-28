@@ -71,5 +71,5 @@ void MergeTwoArraysTest()
     }
     std::cout << "]" << std::endl;
 
-    std::cout << "====================== Merge Two Arrays Test Start ======================" << std::endl;
+    std::cout << "====================== Merge Two Arrays Test End ======================" << std::endl;
 }

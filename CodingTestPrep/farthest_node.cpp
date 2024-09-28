@@ -72,5 +72,5 @@ void FarthestNodeTest()
     auto res = solution1(n, vertex);
     std::cout << "Result : " << res << std::endl;
 
-    std::cout << "====================== Farthest Node Test Start ======================" << std::endl;
+    std::cout << "====================== Farthest Node Test End ======================" << std::endl;
 }

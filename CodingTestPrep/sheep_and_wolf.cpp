@@ -82,5 +82,5 @@ void SheepAndWolfTest()
 	auto res = solution1(info, edges);
 	std::cout << "Result : " << res << std::endl;
 
-	std::cout << "====================== Sheep And Wolf Test Start ======================" << std::endl;
+	std::cout << "====================== Sheep And Wolf Test End ======================" << std::endl;
 }

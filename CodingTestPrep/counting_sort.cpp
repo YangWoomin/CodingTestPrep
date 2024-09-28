@@ -39,5 +39,5 @@ void CountingSortTest()
     auto res = solution1(s);
     std::cout << "Result : " << res << std::endl;
 
-    std::cout << "====================== Counting Sort Test Start ======================" << std::endl;
+    std::cout << "====================== Counting Sort Test End ======================" << std::endl;
 }

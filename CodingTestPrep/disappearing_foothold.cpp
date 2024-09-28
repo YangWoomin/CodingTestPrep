@@ -99,5 +99,5 @@ void DisappearingFootholdTest()
     auto res = solution1(board, aloc, bloc);
     std::cout << "Result : " << res << std::endl;
 
-    std::cout << "====================== Disappearing Foothold Test Start ======================" << std::endl;
+    std::cout << "====================== Disappearing Foothold Test End ======================" << std::endl;
 }

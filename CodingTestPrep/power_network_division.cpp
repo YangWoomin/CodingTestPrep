@@ -125,5 +125,5 @@ void PowerNetworkDivisionTest()
     auto res = solution2(n, wires);
     std::cout << "Result : " << res << std::endl;
 
-    std::cout << "====================== Power Network Division Test Start ======================" << std::endl;
+    std::cout << "====================== Power Network Division Test End ======================" << std::endl;
 }

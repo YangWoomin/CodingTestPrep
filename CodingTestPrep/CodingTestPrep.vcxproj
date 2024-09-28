@@ -149,6 +149,7 @@
     <ClCompile Include="bfs_search.cpp" />
     <ClCompile Include="binary_tree_search_impl.cpp" />
     <ClCompile Include="bracket_match.cpp" />
+    <ClCompile Include="bubble_sort.cpp" />
     <ClCompile Include="card_bundle.cpp" />
     <ClCompile Include="choose_two_nums_and_add.cpp" />
     <ClCompile Include="clothes_combination.cpp" />
@@ -173,6 +174,7 @@
     <ClCompile Include="immigration_inspection.cpp" />
     <ClCompile Include="insertion_sort.cpp" />
     <ClCompile Include="josephus.cpp" />
+    <ClCompile Include="kth_number.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="mart_sale.cpp" />
     <ClCompile Include="maze_escape.cpp" />
@@ -193,6 +195,8 @@
     <ClCompile Include="ranking.cpp" />
     <ClCompile Include="sheep_and_wolf.cpp" />
     <ClCompile Include="simple_union_find.cpp" />
+    <ClCompile Include="sort_integer_desc.cpp" />
+    <ClCompile Include="sort_string_by_my_selection.cpp" />
     <ClCompile Include="specific_value_from_two_values.cpp" />
     <ClCompile Include="permutation.cpp" />
     <ClCompile Include="pick_up_dolls.cpp" />
@@ -203,6 +207,7 @@
     <ClCompile Include="sudoku_puzzle.cpp" />
     <ClCompile Include="sum_combination_for_10.cpp" />
     <ClCompile Include="target_number.cpp" />
+    <ClCompile Include="the_biggest_number.cpp" />
     <ClCompile Include="track_construction.cpp" />
     <ClCompile Include="travel_route.cpp" />
     <ClCompile Include="tree_search.cpp" />

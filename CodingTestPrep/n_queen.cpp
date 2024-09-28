@@ -64,6 +64,6 @@ void NQueenTest()
     auto res = solution1(n);
     std::cout << "Result : " << res << std::endl;
 
-    std::cout << "====================== N Queen Test Start ======================" << std::endl;
+    std::cout << "====================== N Queen Test End ======================" << std::endl;
 }
 

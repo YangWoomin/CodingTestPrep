@@ -68,5 +68,5 @@ void SumCombinationFor10Test()
     }
     std::cout << "]" << std::endl;
 
-    std::cout << "====================== Sum Combination For 10 Test Start ======================" << std::endl;
+    std::cout << "====================== Sum Combination For 10 Test End ======================" << std::endl;
 }

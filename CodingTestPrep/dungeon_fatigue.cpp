@@ -65,5 +65,5 @@ void DungeonFatigueTest()
     auto res = solution1(k, dungeons);
     std::cout << "Result : " << res << std::endl;
 
-    std::cout << "====================== Dungeon Fatigue Test Start ======================" << std::endl;
+    std::cout << "====================== Dungeon Fatigue Test End ======================" << std::endl;
 }

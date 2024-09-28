@@ -55,5 +55,5 @@ void VowelDictionaryTest()
     auto res = solution1(word);
     std::cout << "Result : " << res << std::endl;
 
-    std::cout << "====================== Vowel Dictionary Test Start ======================" << std::endl;
+    std::cout << "====================== Vowel Dictionary Test End ======================" << std::endl;
 }

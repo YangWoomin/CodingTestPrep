@@ -71,5 +71,5 @@ void QuickSortTest()
     }
     std::cout << "]" << std::endl;
 
-    std::cout << "====================== Quick Sort Test Start ======================" << std::endl;
+    std::cout << "====================== Quick Sort Test End ======================" << std::endl;
 }

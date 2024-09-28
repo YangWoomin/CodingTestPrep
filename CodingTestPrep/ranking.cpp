@@ -83,5 +83,5 @@ void RankingTest()
     auto res = solution1(n, results);
     std::cout << "Result : " << res << std::endl;
 
-    std::cout << "====================== Ranking Test Start ======================" << std::endl;
+    std::cout << "====================== Ranking Test End ======================" << std::endl;
 }

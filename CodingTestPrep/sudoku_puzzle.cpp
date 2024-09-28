@@ -124,5 +124,5 @@ void SudokuPuzzleTest()
     }
     std::cout << std::endl;
 
-    std::cout << "====================== Sudoku Puzzle Test Start ======================" << std::endl;
+    std::cout << "====================== Sudoku Puzzle Test End ======================" << std::endl;
 }

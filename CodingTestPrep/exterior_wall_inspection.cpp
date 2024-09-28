@@ -96,6 +96,6 @@ void ExteriorInspectionTest()
     auto res = solution1(n, weak, dist);
     std::cout << "Result : " << res << std::endl;
 
-    std::cout << "====================== Exterior Inspection Test Start ======================" << std::endl;
+    std::cout << "====================== Exterior Inspection Test End ======================" << std::endl;
 }
 
