@@ -213,6 +213,7 @@
     <ClCompile Include="tree_search.cpp" />
     <ClCompile Include="tree_trio_middle_value.cpp" />
     <ClCompile Include="trucks_on_bridge.cpp" />
+    <ClCompile Include="tuple.cpp" />
     <ClCompile Include="visit_len.cpp" />
     <ClCompile Include="vowel_dictionary.cpp" />
     <ClCompile Include="word_chain_game.cpp" />

@@ -15,7 +15,7 @@
 void main()
 {
 	// array test
-	//PermutationTest();
+	PermutationTest();
 	//ArrayControlTest();
 	//ChooseTwoNumsAndAddTest();
 	//GiveUpMathTest();
@@ -105,5 +105,6 @@ void main()
 	//SortStringByMySelectionTest();
 	//SortIntegerDescTest();
 	//KthNumberTest();
-	TheBiggestNumberTest();
+	//TheBiggestNumberTest();
+	//TupleTest();
 }
