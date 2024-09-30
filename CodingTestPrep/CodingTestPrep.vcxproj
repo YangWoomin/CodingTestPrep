@@ -208,6 +208,7 @@
     <ClCompile Include="sum_combination_for_10.cpp" />
     <ClCompile Include="target_number.cpp" />
     <ClCompile Include="the_biggest_number.cpp" />
+    <ClCompile Include="topography_movement.cpp" />
     <ClCompile Include="track_construction.cpp" />
     <ClCompile Include="travel_route.cpp" />
     <ClCompile Include="tree_search.cpp" />

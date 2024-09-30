@@ -15,7 +15,7 @@
 void main()
 {
 	// array test
-	PermutationTest();
+	//PermutationTest();
 	//ArrayControlTest();
 	//ChooseTwoNumsAndAddTest();
 	//GiveUpMathTest();
@@ -107,4 +107,5 @@ void main()
 	//KthNumberTest();
 	//TheBiggestNumberTest();
 	//TupleTest();
+	TopographyMovementTest();
 }

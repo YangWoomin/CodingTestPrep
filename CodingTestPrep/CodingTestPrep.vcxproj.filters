@@ -298,5 +298,8 @@
     <ClCompile Include="tuple.cpp">
       <Filter>Source Files\sort</Filter>
     </ClCompile>
+    <ClCompile Include="topography_movement.cpp">
+      <Filter>Source Files\sort</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

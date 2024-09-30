@@ -35,3 +35,6 @@ void TheBiggestNumberTest();
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/64065
 void TupleTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/62050
+void TopographyMovementTest();
