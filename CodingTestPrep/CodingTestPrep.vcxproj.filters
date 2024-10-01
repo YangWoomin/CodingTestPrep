@@ -301,5 +301,11 @@
     <ClCompile Include="topography_movement.cpp">
       <Filter>Source Files\sort</Filter>
     </ClCompile>
+    <ClCompile Include="file_name_sort.cpp">
+      <Filter>Source Files\sort</Filter>
+    </ClCompile>
+    <ClCompile Include="h-index.cpp">
+      <Filter>Source Files\sort</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

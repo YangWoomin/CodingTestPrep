@@ -23,58 +23,47 @@ static std::vector<std::string> solution1(std::vector<std::string> strings, int 
 
 static std::vector<std::string> solution2(std::vector<std::string> strings, int n)
 {
-
-    auto lesser = [&](std::string lhs, std::string rhs)
-        {
-            if (lhs[n] == rhs[n])
-            {
-                return lhs < rhs;
-            }
-            return lhs[n] < rhs[n];
+    auto comparator = [&](std::string& lhs, std::string& rhs) {
+        if (lhs[n] == rhs[n]) {
+            return lhs < rhs;
+        }
+        return lhs[n] < rhs[n];
         };
 
-    auto greater = [&](std::string lhs, std::string rhs)
+    std::function<void(int, int)> qsort = [&](int start, int end) {
+
+        if (start >= end)
         {
-            if (lhs[n] == rhs[n])
+            return;
+        }
+
+        auto pivot = strings[end];
+        int s = start, e = end - 1;
+        while (s <= e)
+        {
+            while (s <= e && comparator(strings[s], pivot))
             {
-                return lhs > rhs;
+                s++;
             }
-            return lhs[n] > rhs[n];
+            while (s <= e && !comparator(strings[e], pivot))
+            {
+                e--;
+            }
+
+            if (s <= e)
+            {
+                std::swap(strings[s], strings[e]);
+                s++;
+                e--;
+            }
+        }
+
+        std::swap(strings[s], strings[end]);
+        qsort(start, s - 1);
+        qsort(s + 1, end);
         };
-    
-	std::function<void(int, int)> quickSort = [&](int start, int end)
-		{
-			if (start >= end)
-			{
-				return;
-			}
 
-            auto pivot = strings[end];
-            int s = start, e = end - 1;
-            while (s <= e)
-            {
-                while (s <= e && lesser(strings[s], pivot))
-                {
-                    s++;
-                }
-
-                while (s <= e && greater(strings[e], pivot))
-                {
-                    e--;
-                }
-
-                if (s <= e)
-                {
-                    std::swap(strings[s], strings[e]);
-                    s++, e--;
-                }
-            }
-            std::swap(strings[s], strings[end]);
-            quickSort(start, s - 1);
-            quickSort(s + 1, end);
-		};
-
-    quickSort(0, strings.size() - 1);
+    qsort(0, strings.size() - 1);
 
     return strings;
 }

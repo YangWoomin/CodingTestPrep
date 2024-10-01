@@ -107,5 +107,7 @@ void main()
 	//KthNumberTest();
 	//TheBiggestNumberTest();
 	//TupleTest();
-	TopographyMovementTest();
+	//TopographyMovementTest();
+	//FileNameSortTest();
+	HIndexTest();
 }

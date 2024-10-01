@@ -21,7 +21,7 @@ void HeapSortTest();
 // internal problem in the book
 void BubbleSortTest();
 
-// internal problem in the book
+// https://school.programmers.co.kr/learn/courses/30/lessons/12915
 void SortStringByMySelectionTest();
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/12933
@@ -38,3 +38,9 @@ void TupleTest();
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/62050
 void TopographyMovementTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/17686
+void FileNameSortTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/42747
+void HIndexTest();

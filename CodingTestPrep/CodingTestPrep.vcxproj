@@ -168,8 +168,10 @@
     <ClCompile Include="failure_rate.cpp" />
     <ClCompile Include="farthest_node.cpp" />
     <ClCompile Include="dungeon_fatigue.cpp" />
+    <ClCompile Include="file_name_sort.cpp" />
     <ClCompile Include="function_develop.cpp" />
     <ClCompile Include="give_up_math.cpp" />
+    <ClCompile Include="h-index.cpp" />
     <ClCompile Include="heap_sort.cpp" />
     <ClCompile Include="immigration_inspection.cpp" />
     <ClCompile Include="insertion_sort.cpp" />
