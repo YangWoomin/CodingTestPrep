@@ -115,5 +115,8 @@ void main()
 	// simulation
 	//RotateMatrixTest();
 	//MultiplyMatrixAndMakeTransposedTest();
-	MakeSnailSequenceTest();
+	//MakeSnailSequenceTest();
+	//RepeatBinaryConversionTest();
+	//RollCakeCuttingTest();
+	CarpetTest();
 }

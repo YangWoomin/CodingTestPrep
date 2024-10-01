@@ -152,6 +152,7 @@
     <ClCompile Include="bracket_match.cpp" />
     <ClCompile Include="bubble_sort.cpp" />
     <ClCompile Include="card_bundle.cpp" />
+    <ClCompile Include="carpet.cpp" />
     <ClCompile Include="choose_two_nums_and_add.cpp" />
     <ClCompile Include="clothes_combination.cpp" />
     <ClCompile Include="compression.cpp" />
@@ -196,8 +197,10 @@
     <ClCompile Include="predict_match.cpp" />
     <ClCompile Include="pyramid_toothbrush_sell.cpp" />
     <ClCompile Include="quick_sort.cpp" />
+    <ClCompile Include="repeat_binary_conversion.cpp" />
     <ClCompile Include="report_mail.cpp" />
     <ClCompile Include="ranking.cpp" />
+    <ClCompile Include="roll_cake_cutting.cpp" />
     <ClCompile Include="rotate_matrix.cpp" />
     <ClCompile Include="sheep_and_wolf.cpp" />
     <ClCompile Include="simple_union_find.cpp" />

@@ -8,3 +8,12 @@ void MultiplyMatrixAndMakeTransposedTest();
 
 // internal problem in the book
 void MakeSnailSequenceTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/70129
+void RepeatBinaryConversionTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/132265
+void RollCakeCuttingTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/42842
+void CarpetTest();
