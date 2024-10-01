@@ -135,6 +135,7 @@
     <ClInclude Include="hash_test.h" />
     <ClInclude Include="queue_test.h" />
     <ClInclude Include="set_test.h" />
+    <ClInclude Include="simulation_test.h" />
     <ClInclude Include="sort_test.h" />
     <ClInclude Include="stack_test.h" />
     <ClInclude Include="tree_test.h" />
@@ -195,6 +196,7 @@
     <ClCompile Include="quick_sort.cpp" />
     <ClCompile Include="report_mail.cpp" />
     <ClCompile Include="ranking.cpp" />
+    <ClCompile Include="rotate_matrix.cpp" />
     <ClCompile Include="sheep_and_wolf.cpp" />
     <ClCompile Include="simple_union_find.cpp" />
     <ClCompile Include="sort_integer_desc.cpp" />

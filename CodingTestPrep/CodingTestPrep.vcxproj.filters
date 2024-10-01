@@ -36,6 +36,9 @@
     <Filter Include="Source Files\sort">
       <UniqueIdentifier>{c735e43a-5c26-4fd3-bc43-ece28ec2e9da}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\simulation">
+      <UniqueIdentifier>{0b56e20c-054d-4f2f-917c-cb9760c5421f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="array_test.h">
@@ -63,6 +66,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="sort_test.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="simulation_test.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -306,6 +312,9 @@
     </ClCompile>
     <ClCompile Include="h-index.cpp">
       <Filter>Source Files\sort</Filter>
+    </ClCompile>
+    <ClCompile Include="rotate_matrix.cpp">
+      <Filter>Source Files\simulation</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

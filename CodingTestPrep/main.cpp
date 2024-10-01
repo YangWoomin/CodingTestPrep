@@ -11,6 +11,7 @@
 #include	"graph_test.h"
 #include	"backtracking_test.h"
 #include	"sort_test.h"
+#include	"simulation_test.h"
 
 void main()
 {
@@ -109,5 +110,8 @@ void main()
 	//TupleTest();
 	//TopographyMovementTest();
 	//FileNameSortTest();
-	HIndexTest();
+	//HIndexTest();
+
+	// simulation
+	RotateMatrixTest();
 }
