@@ -113,5 +113,7 @@ void main()
 	//HIndexTest();
 
 	// simulation
-	RotateMatrixTest();
+	//RotateMatrixTest();
+	//MultiplyMatrixAndMakeTransposedTest();
+	MakeSnailSequenceTest();
 }

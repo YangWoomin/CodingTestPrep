@@ -179,11 +179,13 @@
     <ClCompile Include="josephus.cpp" />
     <ClCompile Include="kth_number.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="make_snail_sequence.cpp" />
     <ClCompile Include="mart_sale.cpp" />
     <ClCompile Include="maze_escape.cpp" />
     <ClCompile Include="menu_renewal.cpp" />
     <ClCompile Include="merge_sort.cpp" />
     <ClCompile Include="merge_two_arrays.cpp" />
+    <ClCompile Include="multiply_matrix_and_make_transposed.cpp" />
     <ClCompile Include="network.cpp" />
     <ClCompile Include="n_queen.cpp" />
     <ClCompile Include="open_chat.cpp" />

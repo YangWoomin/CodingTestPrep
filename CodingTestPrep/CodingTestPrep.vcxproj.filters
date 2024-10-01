@@ -316,5 +316,11 @@
     <ClCompile Include="rotate_matrix.cpp">
       <Filter>Source Files\simulation</Filter>
     </ClCompile>
+    <ClCompile Include="multiply_matrix_and_make_transposed.cpp">
+      <Filter>Source Files\simulation</Filter>
+    </ClCompile>
+    <ClCompile Include="make_snail_sequence.cpp">
+      <Filter>Source Files\simulation</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
