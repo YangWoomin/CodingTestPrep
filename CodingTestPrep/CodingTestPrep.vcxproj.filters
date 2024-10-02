@@ -331,5 +331,17 @@
     <ClCompile Include="carpet.cpp">
       <Filter>Source Files\simulation</Filter>
     </ClCompile>
+    <ClCompile Include="jump_and_teleportation.cpp">
+      <Filter>Source Files\simulation</Filter>
+    </ClCompile>
+    <ClCompile Include="character_coordinate.cpp">
+      <Filter>Source Files\simulation</Filter>
+    </ClCompile>
+    <ClCompile Include="joystick.cpp">
+      <Filter>Source Files\simulation</Filter>
+    </ClCompile>
+    <ClCompile Include="pillar_and_roof.cpp">
+      <Filter>Source Files\simulation</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

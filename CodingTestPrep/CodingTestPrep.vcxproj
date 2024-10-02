@@ -153,6 +153,7 @@
     <ClCompile Include="bubble_sort.cpp" />
     <ClCompile Include="card_bundle.cpp" />
     <ClCompile Include="carpet.cpp" />
+    <ClCompile Include="character_coordinate.cpp" />
     <ClCompile Include="choose_two_nums_and_add.cpp" />
     <ClCompile Include="clothes_combination.cpp" />
     <ClCompile Include="compression.cpp" />
@@ -178,6 +179,8 @@
     <ClCompile Include="immigration_inspection.cpp" />
     <ClCompile Include="insertion_sort.cpp" />
     <ClCompile Include="josephus.cpp" />
+    <ClCompile Include="joystick.cpp" />
+    <ClCompile Include="jump_and_teleportation.cpp" />
     <ClCompile Include="kth_number.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="make_snail_sequence.cpp" />
@@ -192,6 +195,7 @@
     <ClCompile Include="open_chat.cpp" />
     <ClCompile Include="path_find_game.cpp" />
     <ClCompile Include="phone_book.cpp" />
+    <ClCompile Include="pillar_and_roof.cpp" />
     <ClCompile Include="ponketmon.cpp" />
     <ClCompile Include="power_network_division.cpp" />
     <ClCompile Include="predict_match.cpp" />

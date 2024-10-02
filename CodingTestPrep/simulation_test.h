@@ -17,3 +17,15 @@ void RollCakeCuttingTest();
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/42842
 void CarpetTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/12980
+void JumpAndTeleportationTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/120861
+void CharacterCoordinateTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/42860
+void JoystickTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/60061
+void PillarAndRoofTest();

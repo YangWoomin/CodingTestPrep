@@ -118,5 +118,9 @@ void main()
 	//MakeSnailSequenceTest();
 	//RepeatBinaryConversionTest();
 	//RollCakeCuttingTest();
-	CarpetTest();
+	//CarpetTest();
+	//JumpAndTeleportationTest();
+	//CharacterCoordinateTest();
+	//JoystickTest();
+	PillarAndRoofTest();
 }
