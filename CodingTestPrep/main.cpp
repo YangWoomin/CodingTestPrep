@@ -12,6 +12,7 @@
 #include	"backtracking_test.h"
 #include	"sort_test.h"
 #include	"simulation_test.h"
+#include	"dp_test.h"
 
 void main()
 {
@@ -122,5 +123,10 @@ void main()
 	//JumpAndTeleportationTest();
 	//CharacterCoordinateTest();
 	//JoystickTest();
-	PillarAndRoofTest();
+	//PillarAndRoofTest();
+
+	// dp test
+	//LcsLengthTest();
+	//LisLengthTest();
+	CobblestoneProblemTest();
 }

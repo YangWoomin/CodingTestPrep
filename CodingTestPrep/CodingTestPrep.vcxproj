@@ -131,6 +131,7 @@
   <ItemGroup>
     <ClInclude Include="array_test.h" />
     <ClInclude Include="backtracking_test.h" />
+    <ClInclude Include="dp_test.h" />
     <ClInclude Include="graph_test.h" />
     <ClInclude Include="hash_test.h" />
     <ClInclude Include="queue_test.h" />
@@ -156,6 +157,7 @@
     <ClCompile Include="character_coordinate.cpp" />
     <ClCompile Include="choose_two_nums_and_add.cpp" />
     <ClCompile Include="clothes_combination.cpp" />
+    <ClCompile Include="cobblestone_problem.cpp" />
     <ClCompile Include="compression.cpp" />
     <ClCompile Include="connect_island.cpp" />
     <ClCompile Include="correct_bracket.cpp" />
@@ -182,6 +184,8 @@
     <ClCompile Include="joystick.cpp" />
     <ClCompile Include="jump_and_teleportation.cpp" />
     <ClCompile Include="kth_number.cpp" />
+    <ClCompile Include="lcs_length.cpp" />
+    <ClCompile Include="lis_length.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="make_snail_sequence.cpp" />
     <ClCompile Include="mart_sale.cpp" />

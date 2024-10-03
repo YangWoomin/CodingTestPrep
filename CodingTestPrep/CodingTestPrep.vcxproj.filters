@@ -39,6 +39,9 @@
     <Filter Include="Source Files\simulation">
       <UniqueIdentifier>{0b56e20c-054d-4f2f-917c-cb9760c5421f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\dp">
+      <UniqueIdentifier>{103b371c-e5c8-4ffd-ba5b-19f38751935e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="array_test.h">
@@ -69,6 +72,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="simulation_test.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="dp_test.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -342,6 +348,15 @@
     </ClCompile>
     <ClCompile Include="pillar_and_roof.cpp">
       <Filter>Source Files\simulation</Filter>
+    </ClCompile>
+    <ClCompile Include="lcs_length.cpp">
+      <Filter>Source Files\dp</Filter>
+    </ClCompile>
+    <ClCompile Include="lis_length.cpp">
+      <Filter>Source Files\dp</Filter>
+    </ClCompile>
+    <ClCompile Include="cobblestone_problem.cpp">
+      <Filter>Source Files\dp</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
