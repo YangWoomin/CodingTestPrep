@@ -128,5 +128,9 @@ void main()
 	// dp test
 	//LcsLengthTest();
 	//LisLengthTest();
-	CobblestoneProblemTest();
+	//CobblestoneProblemTest();
+	//FibonacciNumberTest();
+	//_2xnTilingTest();
+	//IntegerTriangleTest();
+	HopscotchTest();
 }

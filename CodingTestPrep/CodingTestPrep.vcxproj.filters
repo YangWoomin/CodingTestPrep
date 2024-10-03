@@ -358,5 +358,17 @@
     <ClCompile Include="cobblestone_problem.cpp">
       <Filter>Source Files\dp</Filter>
     </ClCompile>
+    <ClCompile Include="fibonacci_number.cpp">
+      <Filter>Source Files\dp</Filter>
+    </ClCompile>
+    <ClCompile Include="2_x_n_tiling.cpp">
+      <Filter>Source Files\dp</Filter>
+    </ClCompile>
+    <ClCompile Include="integer_triangle.cpp">
+      <Filter>Source Files\dp</Filter>
+    </ClCompile>
+    <ClCompile Include="hopscotch.cpp">
+      <Filter>Source Files\dp</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

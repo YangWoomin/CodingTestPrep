@@ -142,6 +142,7 @@
     <ClInclude Include="tree_test.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="2_x_n_tiling.cpp" />
     <ClCompile Include="archery_competition.cpp" />
     <ClCompile Include="array_control.cpp" />
     <ClCompile Include="array_cut.cpp" />
@@ -173,13 +174,16 @@
     <ClCompile Include="failure_rate.cpp" />
     <ClCompile Include="farthest_node.cpp" />
     <ClCompile Include="dungeon_fatigue.cpp" />
+    <ClCompile Include="fibonacci_number.cpp" />
     <ClCompile Include="file_name_sort.cpp" />
     <ClCompile Include="function_develop.cpp" />
     <ClCompile Include="give_up_math.cpp" />
     <ClCompile Include="h-index.cpp" />
     <ClCompile Include="heap_sort.cpp" />
+    <ClCompile Include="hopscotch.cpp" />
     <ClCompile Include="immigration_inspection.cpp" />
     <ClCompile Include="insertion_sort.cpp" />
+    <ClCompile Include="integer_triangle.cpp" />
     <ClCompile Include="josephus.cpp" />
     <ClCompile Include="joystick.cpp" />
     <ClCompile Include="jump_and_teleportation.cpp" />
