@@ -133,5 +133,6 @@ void main()
 	//_2xnTilingTest();
 	//IntegerTriangleTest();
 	//HopscotchTest();
-	TheftTest();
+	//TheftTest();
+	FindingTheBiggestTriangleTest();
 }
