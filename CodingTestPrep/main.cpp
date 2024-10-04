@@ -132,5 +132,6 @@ void main()
 	//FibonacciNumberTest();
 	//_2xnTilingTest();
 	//IntegerTriangleTest();
-	HopscotchTest();
+	//HopscotchTest();
+	TheftTest();
 }

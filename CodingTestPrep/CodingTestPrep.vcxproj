@@ -228,6 +228,7 @@
     <ClCompile Include="sudoku_puzzle.cpp" />
     <ClCompile Include="sum_combination_for_10.cpp" />
     <ClCompile Include="target_number.cpp" />
+    <ClCompile Include="theft.cpp" />
     <ClCompile Include="the_biggest_number.cpp" />
     <ClCompile Include="topography_movement.cpp" />
     <ClCompile Include="track_construction.cpp" />

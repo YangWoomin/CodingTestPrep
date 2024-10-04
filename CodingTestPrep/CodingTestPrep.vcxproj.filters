@@ -370,5 +370,8 @@
     <ClCompile Include="hopscotch.cpp">
       <Filter>Source Files\dp</Filter>
     </ClCompile>
+    <ClCompile Include="theft.cpp">
+      <Filter>Source Files\dp</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
