@@ -376,5 +376,8 @@
     <ClCompile Include="finding_the_biggest_triangle.cpp">
       <Filter>Source Files\dp</Filter>
     </ClCompile>
+    <ClCompile Include="word_puzzle.cpp">
+      <Filter>Source Files\dp</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

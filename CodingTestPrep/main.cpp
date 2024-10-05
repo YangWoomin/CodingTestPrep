@@ -134,5 +134,6 @@ void main()
 	//IntegerTriangleTest();
 	//HopscotchTest();
 	//TheftTest();
-	FindingTheBiggestTriangleTest();
+	//FindingTheBiggestTriangleTest();
+	WordPuzzleTest();
 }

@@ -26,3 +26,6 @@ void TheftTest();
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/12905
 void FindingTheBiggestTriangleTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/12983
+void WordPuzzleTest();
