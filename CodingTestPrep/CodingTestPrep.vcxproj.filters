@@ -397,5 +397,17 @@
     <ClCompile Include="knapsack_problem.cpp">
       <Filter>Source Files\greedy</Filter>
     </ClCompile>
+    <ClCompile Include="budget.cpp">
+      <Filter>Source Files\greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="lifeboat.cpp">
+      <Filter>Source Files\greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="tangerine_selection.cpp">
+      <Filter>Source Files\greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="base_station.cpp">
+      <Filter>Source Files\greedy</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -142,5 +142,9 @@ void main()
 
 	// greedy test
 	//TakingChangeTest();
-	KnapsackProblemTest();
+	//KnapsackProblemTest();
+	//BudgetTest();
+	//LifeboatTest();
+	//TangerineSelectionTest();
+	BaseStationTest();
 }
