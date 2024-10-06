@@ -135,5 +135,7 @@ void main()
 	//HopscotchTest();
 	//TheftTest();
 	//FindingTheBiggestTriangleTest();
-	WordPuzzleTest();
+	//WordPuzzleTest();
+	//NRepresentationTest();
+	WayToSchoolTest();
 }

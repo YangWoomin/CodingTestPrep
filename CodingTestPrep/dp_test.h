@@ -29,3 +29,9 @@ void FindingTheBiggestTriangleTest();
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/12983
 void WordPuzzleTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/42895
+void NRepresentationTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/42898
+void WayToSchoolTest();

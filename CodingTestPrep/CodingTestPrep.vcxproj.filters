@@ -379,5 +379,11 @@
     <ClCompile Include="word_puzzle.cpp">
       <Filter>Source Files\dp</Filter>
     </ClCompile>
+    <ClCompile Include="N_representation.cpp">
+      <Filter>Source Files\dp</Filter>
+    </ClCompile>
+    <ClCompile Include="way_to_school.cpp">
+      <Filter>Source Files\dp</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

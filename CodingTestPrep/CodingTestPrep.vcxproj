@@ -201,6 +201,7 @@
     <ClCompile Include="multiply_matrix_and_make_transposed.cpp" />
     <ClCompile Include="network.cpp" />
     <ClCompile Include="n_queen.cpp" />
+    <ClCompile Include="N_representation.cpp" />
     <ClCompile Include="open_chat.cpp" />
     <ClCompile Include="path_find_game.cpp" />
     <ClCompile Include="phone_book.cpp" />
@@ -240,6 +241,7 @@
     <ClCompile Include="tuple.cpp" />
     <ClCompile Include="visit_len.cpp" />
     <ClCompile Include="vowel_dictionary.cpp" />
+    <ClCompile Include="way_to_school.cpp" />
     <ClCompile Include="word_chain_game.cpp" />
     <ClCompile Include="word_puzzle.cpp" />
   </ItemGroup>
