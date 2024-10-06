@@ -13,6 +13,7 @@
 #include	"sort_test.h"
 #include	"simulation_test.h"
 #include	"dp_test.h"
+#include	"greedy_test.h"
 
 void main()
 {
@@ -137,5 +138,9 @@ void main()
 	//FindingTheBiggestTriangleTest();
 	//WordPuzzleTest();
 	//NRepresentationTest();
-	WayToSchoolTest();
+	//WayToSchoolTest();
+
+	// greedy test
+	//TakingChangeTest();
+	KnapsackProblemTest();
 }

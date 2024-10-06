@@ -133,6 +133,7 @@
     <ClInclude Include="backtracking_test.h" />
     <ClInclude Include="dp_test.h" />
     <ClInclude Include="graph_test.h" />
+    <ClInclude Include="greedy_test.h" />
     <ClInclude Include="hash_test.h" />
     <ClInclude Include="queue_test.h" />
     <ClInclude Include="set_test.h" />
@@ -188,6 +189,7 @@
     <ClCompile Include="josephus.cpp" />
     <ClCompile Include="joystick.cpp" />
     <ClCompile Include="jump_and_teleportation.cpp" />
+    <ClCompile Include="knapsack_problem.cpp" />
     <ClCompile Include="kth_number.cpp" />
     <ClCompile Include="lcs_length.cpp" />
     <ClCompile Include="lis_length.cpp" />
@@ -229,6 +231,7 @@
     <ClCompile Include="string_search.cpp" />
     <ClCompile Include="sudoku_puzzle.cpp" />
     <ClCompile Include="sum_combination_for_10.cpp" />
+    <ClCompile Include="taking_change.cpp" />
     <ClCompile Include="target_number.cpp" />
     <ClCompile Include="theft.cpp" />
     <ClCompile Include="the_biggest_number.cpp" />

@@ -42,6 +42,9 @@
     <Filter Include="Source Files\dp">
       <UniqueIdentifier>{103b371c-e5c8-4ffd-ba5b-19f38751935e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\greedy">
+      <UniqueIdentifier>{77b2c823-26b9-49cd-9187-83ed1b1608ce}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="array_test.h">
@@ -75,6 +78,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="dp_test.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="greedy_test.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -384,6 +390,12 @@
     </ClCompile>
     <ClCompile Include="way_to_school.cpp">
       <Filter>Source Files\dp</Filter>
+    </ClCompile>
+    <ClCompile Include="taking_change.cpp">
+      <Filter>Source Files\greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="knapsack_problem.cpp">
+      <Filter>Source Files\greedy</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
