@@ -182,6 +182,7 @@
     <ClCompile Include="finding_the_biggest_triangle.cpp" />
     <ClCompile Include="function_develop.cpp" />
     <ClCompile Include="give_up_math.cpp" />
+    <ClCompile Include="gym_suit.cpp" />
     <ClCompile Include="h-index.cpp" />
     <ClCompile Include="heap_sort.cpp" />
     <ClCompile Include="hopscotch.cpp" />
@@ -198,11 +199,13 @@
     <ClCompile Include="lis_length.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="make_snail_sequence.cpp" />
+    <ClCompile Include="making_big_number.cpp" />
     <ClCompile Include="mart_sale.cpp" />
     <ClCompile Include="maze_escape.cpp" />
     <ClCompile Include="menu_renewal.cpp" />
     <ClCompile Include="merge_sort.cpp" />
     <ClCompile Include="merge_two_arrays.cpp" />
+    <ClCompile Include="monitoring_camera.cpp" />
     <ClCompile Include="multiply_matrix_and_make_transposed.cpp" />
     <ClCompile Include="network.cpp" />
     <ClCompile Include="n_queen.cpp" />

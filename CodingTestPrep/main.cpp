@@ -146,5 +146,8 @@ void main()
 	//BudgetTest();
 	//LifeboatTest();
 	//TangerineSelectionTest();
-	BaseStationTest();
+	//BaseStationTest();
+	//GymSuitTest();
+	//MonitoringCameraTest();
+	MakingBigNumberTest();
 }

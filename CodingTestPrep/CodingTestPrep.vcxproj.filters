@@ -409,5 +409,14 @@
     <ClCompile Include="base_station.cpp">
       <Filter>Source Files\greedy</Filter>
     </ClCompile>
+    <ClCompile Include="gym_suit.cpp">
+      <Filter>Source Files\greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="monitoring_camera.cpp">
+      <Filter>Source Files\greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="making_big_number.cpp">
+      <Filter>Source Files\greedy</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
