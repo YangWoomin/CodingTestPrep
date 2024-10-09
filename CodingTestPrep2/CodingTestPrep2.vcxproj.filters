@@ -12,6 +12,12 @@
     <Filter Include="Source Files\array">
       <UniqueIdentifier>{4267daef-73d6-40ba-b266-11704c4312e8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\stack">
+      <UniqueIdentifier>{91c03cd5-71fc-4522-9ac8-8afa89aeef0b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\queue">
+      <UniqueIdentifier>{ac5e7edd-4e57-4068-9303-dbba649641b2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -23,9 +29,24 @@
     <ClCompile Include="array_control.cpp">
       <Filter>Source Files\array</Filter>
     </ClCompile>
+    <ClCompile Include="stack_test.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="matching_bracket.cpp">
+      <Filter>Source Files\stack</Filter>
+    </ClCompile>
+    <ClCompile Include="decimal_to_binary.cpp">
+      <Filter>Source Files\stack</Filter>
+    </ClCompile>
+    <ClCompile Include="josephus_problem.cpp">
+      <Filter>Source Files\queue</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="array_test.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="queue_test.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
