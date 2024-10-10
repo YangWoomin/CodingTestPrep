@@ -3,6 +3,7 @@
 #include	"array_test.h"
 #include	"stack_test.h"
 #include	"queue_test.h"
+#include	"hash_test.h"
 
 int main()
 {
@@ -15,7 +16,11 @@ int main()
 	//DecimalToBinaryTest();
 
 	// queue test
-	JosephusProblemTest();
+	//JosephusProblemTest();
+
+	// hash test
+	//MakingNumberFromTwoTest();
+	StringSearchTest();
 
 	return 0;
 }

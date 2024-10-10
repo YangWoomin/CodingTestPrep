@@ -18,6 +18,9 @@
     <Filter Include="Source Files\queue">
       <UniqueIdentifier>{ac5e7edd-4e57-4068-9303-dbba649641b2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\hash">
+      <UniqueIdentifier>{61632500-838e-415c-9ac3-eb9f9d192481}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -41,12 +44,21 @@
     <ClCompile Include="josephus_problem.cpp">
       <Filter>Source Files\queue</Filter>
     </ClCompile>
+    <ClCompile Include="making_number_from_two.cpp">
+      <Filter>Source Files\hash</Filter>
+    </ClCompile>
+    <ClCompile Include="string_search.cpp">
+      <Filter>Source Files\hash</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="array_test.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="queue_test.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="hash_test.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

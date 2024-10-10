@@ -131,12 +131,15 @@
     <ClCompile Include="decimal_to_binary.cpp" />
     <ClCompile Include="josephus_problem.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="making_number_from_two.cpp" />
     <ClCompile Include="matching_bracket.cpp" />
     <ClCompile Include="permutation.cpp" />
     <ClCompile Include="stack_test.h" />
+    <ClCompile Include="string_search.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="array_test.h" />
+    <ClInclude Include="hash_test.h" />
     <ClInclude Include="queue_test.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
