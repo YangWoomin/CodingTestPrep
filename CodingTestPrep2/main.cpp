@@ -4,6 +4,7 @@
 #include	"stack_test.h"
 #include	"queue_test.h"
 #include	"hash_test.h"
+#include	"tree_test.h"
 
 int main()
 {
@@ -20,7 +21,11 @@ int main()
 
 	// hash test
 	//MakingNumberFromTwoTest();
-	StringSearchTest();
+	//StringSearchTest();
+
+	// tree test
+	//TreeExhaustiveSearchTest();
+	BinarySearchImplTest();
 
 	return 0;
 }

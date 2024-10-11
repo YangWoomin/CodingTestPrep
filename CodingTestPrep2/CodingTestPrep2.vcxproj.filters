@@ -21,6 +21,9 @@
     <Filter Include="Source Files\hash">
       <UniqueIdentifier>{61632500-838e-415c-9ac3-eb9f9d192481}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\tree">
+      <UniqueIdentifier>{b2283407-fe1a-4841-af34-53b4a0146152}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -50,6 +53,12 @@
     <ClCompile Include="string_search.cpp">
       <Filter>Source Files\hash</Filter>
     </ClCompile>
+    <ClCompile Include="tree_exhaustive_search.cpp">
+      <Filter>Source Files\tree</Filter>
+    </ClCompile>
+    <ClCompile Include="binary_search_impl.cpp">
+      <Filter>Source Files\tree</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="array_test.h">
@@ -59,6 +68,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="hash_test.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="tree_test.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
