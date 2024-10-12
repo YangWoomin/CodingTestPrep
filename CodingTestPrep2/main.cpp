@@ -5,6 +5,7 @@
 #include	"queue_test.h"
 #include	"hash_test.h"
 #include	"tree_test.h"
+#include	"set_test.h"
 
 int main()
 {
@@ -25,7 +26,10 @@ int main()
 
 	// tree test
 	//TreeExhaustiveSearchTest();
-	BinarySearchImplTest();
+	//BinarySearchImplTest();
+
+	// set test
+	SimpleUnionFindTest();
 
 	return 0;
 }

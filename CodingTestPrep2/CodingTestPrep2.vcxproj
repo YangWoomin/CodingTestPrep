@@ -135,6 +135,7 @@
     <ClCompile Include="making_number_from_two.cpp" />
     <ClCompile Include="matching_bracket.cpp" />
     <ClCompile Include="permutation.cpp" />
+    <ClCompile Include="simple_union_find.cpp" />
     <ClCompile Include="stack_test.h" />
     <ClCompile Include="string_search.cpp" />
     <ClCompile Include="tree_exhaustive_search.cpp" />
@@ -143,6 +144,7 @@
     <ClInclude Include="array_test.h" />
     <ClInclude Include="hash_test.h" />
     <ClInclude Include="queue_test.h" />
+    <ClInclude Include="set_test.h" />
     <ClInclude Include="tree_test.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
