@@ -104,6 +104,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -118,6 +119,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -128,8 +130,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="array_control.cpp" />
+    <ClCompile Include="bellman_ford.cpp" />
+    <ClCompile Include="bfs.cpp" />
     <ClCompile Include="binary_search_impl.cpp" />
     <ClCompile Include="decimal_to_binary.cpp" />
+    <ClCompile Include="dfs.cpp" />
+    <ClCompile Include="dijkstra.cpp" />
     <ClCompile Include="josephus_problem.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="making_number_from_two.cpp" />
@@ -142,6 +148,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="array_test.h" />
+    <ClInclude Include="graph_test.h" />
     <ClInclude Include="hash_test.h" />
     <ClInclude Include="queue_test.h" />
     <ClInclude Include="set_test.h" />

@@ -6,6 +6,7 @@
 #include	"hash_test.h"
 #include	"tree_test.h"
 #include	"set_test.h"
+#include	"graph_test.h"
 
 int main()
 {
@@ -29,7 +30,13 @@ int main()
 	//BinarySearchImplTest();
 
 	// set test
-	SimpleUnionFindTest();
+	//SimpleUnionFindTest();
+
+	// graph test
+	//DFSTest();
+	//BFSTest();
+	//DijkstraTest();
+	BellmanFordTest();
 
 	return 0;
 }
