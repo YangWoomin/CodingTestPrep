@@ -40,7 +40,7 @@ static std::vector<int> solution1(int numVertices, std::vector<std::tuple<int, i
 	return res;
 }
 
-// using graph
+// using vertices
 static std::vector<int> solution2(int numVertices, std::vector<std::tuple<int, int, int>> edges, int source)
 {
 	std::vector<int> res(numVertices, INT_MAX);
