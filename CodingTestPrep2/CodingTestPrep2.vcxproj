@@ -129,6 +129,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="10_combination.cpp" />
     <ClCompile Include="array_control.cpp" />
     <ClCompile Include="bellman_ford.cpp" />
     <ClCompile Include="bfs.cpp" />
@@ -144,10 +145,12 @@
     <ClCompile Include="simple_union_find.cpp" />
     <ClCompile Include="stack_test.h" />
     <ClCompile Include="string_search.cpp" />
+    <ClCompile Include="sudoku.cpp" />
     <ClCompile Include="tree_exhaustive_search.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="array_test.h" />
+    <ClInclude Include="backtracking_test.h" />
     <ClInclude Include="graph_test.h" />
     <ClInclude Include="hash_test.h" />
     <ClInclude Include="queue_test.h" />

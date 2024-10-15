@@ -7,6 +7,7 @@
 #include	"tree_test.h"
 #include	"set_test.h"
 #include	"graph_test.h"
+#include	"backtracking_test.h"
 
 int main()
 {
@@ -36,7 +37,11 @@ int main()
 	//DFSTest();
 	//BFSTest();
 	//DijkstraTest();
-	BellmanFordTest();
+	//BellmanFordTest();
+
+	// backtracking test
+	//_10CombinationTest();
+	SudokuTest();
 
 	return 0;
 }

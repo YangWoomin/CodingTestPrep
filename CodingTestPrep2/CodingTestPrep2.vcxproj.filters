@@ -30,6 +30,9 @@
     <Filter Include="Source Files\graph">
       <UniqueIdentifier>{8a6eab07-2129-4270-8133-da1cecf9cbe6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\backtracking">
+      <UniqueIdentifier>{35ec5a45-b7e8-40be-92ab-8b5a3340376a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -80,6 +83,12 @@
     <ClCompile Include="bellman_ford.cpp">
       <Filter>Source Files\graph</Filter>
     </ClCompile>
+    <ClCompile Include="10_combination.cpp">
+      <Filter>Source Files\backtracking</Filter>
+    </ClCompile>
+    <ClCompile Include="sudoku.cpp">
+      <Filter>Source Files\backtracking</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="array_test.h">
@@ -98,6 +107,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="graph_test.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="backtracking_test.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
