@@ -134,14 +134,21 @@
     <ClCompile Include="bellman_ford.cpp" />
     <ClCompile Include="bfs.cpp" />
     <ClCompile Include="binary_search_impl.cpp" />
+    <ClCompile Include="bubble_sort.cpp" />
+    <ClCompile Include="counting_sourt.cpp" />
     <ClCompile Include="decimal_to_binary.cpp" />
     <ClCompile Include="dfs.cpp" />
     <ClCompile Include="dijkstra.cpp" />
+    <ClCompile Include="heap_sort.cpp" />
+    <ClCompile Include="insertion_sort.cpp" />
     <ClCompile Include="josephus_problem.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="making_number_from_two.cpp" />
     <ClCompile Include="matching_bracket.cpp" />
+    <ClCompile Include="merge_sort.cpp" />
+    <ClCompile Include="merge_two_arrays.cpp" />
     <ClCompile Include="permutation.cpp" />
+    <ClCompile Include="quick_sort.cpp" />
     <ClCompile Include="simple_union_find.cpp" />
     <ClCompile Include="stack_test.h" />
     <ClCompile Include="string_search.cpp" />
@@ -155,6 +162,7 @@
     <ClInclude Include="hash_test.h" />
     <ClInclude Include="queue_test.h" />
     <ClInclude Include="set_test.h" />
+    <ClInclude Include="sort_test.h" />
     <ClInclude Include="tree_test.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

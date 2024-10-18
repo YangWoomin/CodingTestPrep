@@ -33,6 +33,9 @@
     <Filter Include="Source Files\backtracking">
       <UniqueIdentifier>{35ec5a45-b7e8-40be-92ab-8b5a3340376a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\sort">
+      <UniqueIdentifier>{ba8e52d9-eebf-4367-a6b2-c21ff3c8badc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -89,6 +92,27 @@
     <ClCompile Include="sudoku.cpp">
       <Filter>Source Files\backtracking</Filter>
     </ClCompile>
+    <ClCompile Include="insertion_sort.cpp">
+      <Filter>Source Files\sort</Filter>
+    </ClCompile>
+    <ClCompile Include="merge_sort.cpp">
+      <Filter>Source Files\sort</Filter>
+    </ClCompile>
+    <ClCompile Include="heap_sort.cpp">
+      <Filter>Source Files\sort</Filter>
+    </ClCompile>
+    <ClCompile Include="bubble_sort.cpp">
+      <Filter>Source Files\sort</Filter>
+    </ClCompile>
+    <ClCompile Include="quick_sort.cpp">
+      <Filter>Source Files\sort</Filter>
+    </ClCompile>
+    <ClCompile Include="counting_sourt.cpp">
+      <Filter>Source Files\sort</Filter>
+    </ClCompile>
+    <ClCompile Include="merge_two_arrays.cpp">
+      <Filter>Source Files\sort</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="array_test.h">
@@ -110,6 +134,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="backtracking_test.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sort_test.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

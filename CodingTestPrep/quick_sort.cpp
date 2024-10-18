@@ -9,39 +9,39 @@
 
 static std::vector<int> solution1(std::vector<int> arr)
 {
-	std::function<void(int, int)> sort = [&](int start, int end)
+	std::function<void(int, int)> sort = [&](int start, int end) {
+
+		if (start >= end)
 		{
-            if (start >= end)
-            {
-                return;
-            }
+			return;
+		}
 
-			int pivot = arr[end];
-			int s = start, e = end - 1;
-			while (s <= e)
+		int& pivot = arr[end];
+		int s = start, e = end - 1;
+		while (s <= e)
+		{
+			while (s < end && arr[s] <= pivot)
 			{
-                while (s <= e && arr[s] < pivot)
-                {
-                    s++;
-                }
-
-                while (s <= e && arr[e] > pivot)
-                {
-                    e--;
-                }
-
-                if (s < e)
-                {
-                    std::swap(arr[s], arr[e]);
-                    s++, e--;
-                }
+				s++;
 			}
 
-            arr[end] = arr[s];
-            arr[s] = pivot;
-            sort(start, s - 1);
-            sort(s + 1, end);
-		};
+			while (e >= start && arr[e] >= pivot)
+			{
+				e--;
+			}
+
+			if (s <= e)
+			{
+				std::swap(arr[s], arr[e]);
+				s++;
+				e--;
+			}
+		}
+
+		std::swap(arr[s], pivot);
+		sort(start, s - 1);
+		sort(s + 1, end);
+	};
 
 	sort(0, arr.size() - 1);
 

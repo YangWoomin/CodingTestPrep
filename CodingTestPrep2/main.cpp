@@ -8,6 +8,7 @@
 #include	"set_test.h"
 #include	"graph_test.h"
 #include	"backtracking_test.h"
+#include	"sort_test.h"
 
 int main()
 {
@@ -41,7 +42,16 @@ int main()
 
 	// backtracking test
 	//_10CombinationTest();
-	SudokuTest();
+	//SudokuTest();
+
+	// sort test
+	//InsertionSortTest();
+	//MergeSortTest();
+	//HeapSortTest();
+	//BubbleSortTest();
+	//QuickSortTest();
+	//CountingSortTest();
+	MergeTwoArraysSortTest();
 
 	return 0;
 }
