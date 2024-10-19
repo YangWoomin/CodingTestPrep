@@ -57,7 +57,8 @@ int main()
 	// simulation test
 	//ArrayRotationTest();
 	//MultiplyMatrixAndMakeTransposedTest();
-	SnailSequenceTest();
+	//SnailSequenceTest();
+	JoystickTest();
 
 	return 0;
 }

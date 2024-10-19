@@ -143,6 +143,7 @@
     <ClCompile Include="heap_sort.cpp" />
     <ClCompile Include="insertion_sort.cpp" />
     <ClCompile Include="josephus_problem.cpp" />
+    <ClCompile Include="joystick.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="making_number_from_two.cpp" />
     <ClCompile Include="matching_bracket.cpp" />
