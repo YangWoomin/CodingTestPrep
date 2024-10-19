@@ -9,6 +9,7 @@
 #include	"graph_test.h"
 #include	"backtracking_test.h"
 #include	"sort_test.h"
+#include	"simulation_test.h"
 
 int main()
 {
@@ -51,7 +52,12 @@ int main()
 	//BubbleSortTest();
 	//QuickSortTest();
 	//CountingSortTest();
-	MergeTwoArraysSortTest();
+	//MergeTwoArraysSortTest();
+
+	// simulation test
+	//ArrayRotationTest();
+	//MultiplyMatrixAndMakeTransposedTest();
+	SnailSequenceTest();
 
 	return 0;
 }

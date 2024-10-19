@@ -36,6 +36,9 @@
     <Filter Include="Source Files\sort">
       <UniqueIdentifier>{ba8e52d9-eebf-4367-a6b2-c21ff3c8badc}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\simulation">
+      <UniqueIdentifier>{e963a90a-d73f-437e-b19c-0980ad546171}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -113,6 +116,15 @@
     <ClCompile Include="merge_two_arrays.cpp">
       <Filter>Source Files\sort</Filter>
     </ClCompile>
+    <ClCompile Include="array_rotation.cpp">
+      <Filter>Source Files\simulation</Filter>
+    </ClCompile>
+    <ClCompile Include="multiply_matrix_and_make_transposed.cpp">
+      <Filter>Source Files\simulation</Filter>
+    </ClCompile>
+    <ClCompile Include="snail_sequence.cpp">
+      <Filter>Source Files\simulation</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="array_test.h">
@@ -137,6 +149,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="sort_test.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="simulation_test.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
