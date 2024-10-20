@@ -11,6 +11,7 @@
 #include	"sort_test.h"
 #include	"simulation_test.h"
 #include	"dp_test.h"
+#include	"recursive_test.h"
 
 int main()
 {
@@ -64,7 +65,8 @@ int main()
 	// dp test
 	//LcsLengthTest();
 	//LisLengthTest();
-	CobblestoneTest();
+	//CobblestoneTest();
+	TowerOfHanoiTest();
 
 	return 0;
 }

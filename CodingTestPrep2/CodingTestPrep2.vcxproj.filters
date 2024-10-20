@@ -42,6 +42,9 @@
     <Filter Include="Source Files\dp">
       <UniqueIdentifier>{f8d65d15-c431-4cfd-99d4-d442a4009f34}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\recursive">
+      <UniqueIdentifier>{667e41a2-9f8a-4d56-82d1-f27b006ac7b1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -140,6 +143,9 @@
     <ClCompile Include="cobblestone.cpp">
       <Filter>Source Files\dp</Filter>
     </ClCompile>
+    <ClCompile Include="tower_of_hanoi.cpp">
+      <Filter>Source Files\recursive</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="array_test.h">
@@ -170,6 +176,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="dp_test.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="recursive_test.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

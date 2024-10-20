@@ -160,6 +160,7 @@
     <ClCompile Include="stack_test.h" />
     <ClCompile Include="string_search.cpp" />
     <ClCompile Include="sudoku.cpp" />
+    <ClCompile Include="tower_of_hanoi.cpp" />
     <ClCompile Include="tree_exhaustive_search.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -169,6 +170,7 @@
     <ClInclude Include="graph_test.h" />
     <ClInclude Include="hash_test.h" />
     <ClInclude Include="queue_test.h" />
+    <ClInclude Include="recursive_test.h" />
     <ClInclude Include="set_test.h" />
     <ClInclude Include="simulation_test.h" />
     <ClInclude Include="sort_test.h" />
