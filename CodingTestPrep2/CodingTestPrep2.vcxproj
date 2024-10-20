@@ -136,6 +136,7 @@
     <ClCompile Include="bfs.cpp" />
     <ClCompile Include="binary_search_impl.cpp" />
     <ClCompile Include="bubble_sort.cpp" />
+    <ClCompile Include="cobblestone.cpp" />
     <ClCompile Include="counting_sourt.cpp" />
     <ClCompile Include="decimal_to_binary.cpp" />
     <ClCompile Include="dfs.cpp" />
@@ -144,6 +145,8 @@
     <ClCompile Include="insertion_sort.cpp" />
     <ClCompile Include="josephus_problem.cpp" />
     <ClCompile Include="joystick.cpp" />
+    <ClCompile Include="lcs_length.cpp" />
+    <ClCompile Include="lis_length.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="making_number_from_two.cpp" />
     <ClCompile Include="matching_bracket.cpp" />
@@ -162,6 +165,7 @@
   <ItemGroup>
     <ClInclude Include="array_test.h" />
     <ClInclude Include="backtracking_test.h" />
+    <ClInclude Include="dp_test.h" />
     <ClInclude Include="graph_test.h" />
     <ClInclude Include="hash_test.h" />
     <ClInclude Include="queue_test.h" />

@@ -39,6 +39,9 @@
     <Filter Include="Source Files\simulation">
       <UniqueIdentifier>{e963a90a-d73f-437e-b19c-0980ad546171}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\dp">
+      <UniqueIdentifier>{f8d65d15-c431-4cfd-99d4-d442a4009f34}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -128,6 +131,15 @@
     <ClCompile Include="joystick.cpp">
       <Filter>Source Files\simulation</Filter>
     </ClCompile>
+    <ClCompile Include="lcs_length.cpp">
+      <Filter>Source Files\dp</Filter>
+    </ClCompile>
+    <ClCompile Include="lis_length.cpp">
+      <Filter>Source Files\dp</Filter>
+    </ClCompile>
+    <ClCompile Include="cobblestone.cpp">
+      <Filter>Source Files\dp</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="array_test.h">
@@ -155,6 +167,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="simulation_test.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="dp_test.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

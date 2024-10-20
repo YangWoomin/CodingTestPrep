@@ -10,6 +10,7 @@
 #include	"backtracking_test.h"
 #include	"sort_test.h"
 #include	"simulation_test.h"
+#include	"dp_test.h"
 
 int main()
 {
@@ -58,7 +59,12 @@ int main()
 	//ArrayRotationTest();
 	//MultiplyMatrixAndMakeTransposedTest();
 	//SnailSequenceTest();
-	JoystickTest();
+	//JoystickTest();
+
+	// dp test
+	//LcsLengthTest();
+	//LisLengthTest();
+	CobblestoneTest();
 
 	return 0;
 }
