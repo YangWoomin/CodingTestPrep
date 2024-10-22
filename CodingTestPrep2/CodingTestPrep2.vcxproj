@@ -129,6 +129,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="0_1_knapsack.cpp" />
     <ClCompile Include="10_combination.cpp" />
     <ClCompile Include="array_control.cpp" />
     <ClCompile Include="array_rotation.cpp" />
@@ -141,6 +142,8 @@
     <ClCompile Include="decimal_to_binary.cpp" />
     <ClCompile Include="dfs.cpp" />
     <ClCompile Include="dijkstra.cpp" />
+    <ClCompile Include="fractional_knapsack.cpp" />
+    <ClCompile Include="giving_change.cpp" />
     <ClCompile Include="heap_sort.cpp" />
     <ClCompile Include="insertion_sort.cpp" />
     <ClCompile Include="josephus_problem.cpp" />
@@ -168,6 +171,7 @@
     <ClInclude Include="backtracking_test.h" />
     <ClInclude Include="dp_test.h" />
     <ClInclude Include="graph_test.h" />
+    <ClInclude Include="greedy_test.h" />
     <ClInclude Include="hash_test.h" />
     <ClInclude Include="queue_test.h" />
     <ClInclude Include="recursive_test.h" />

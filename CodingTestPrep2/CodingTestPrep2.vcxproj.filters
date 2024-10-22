@@ -45,6 +45,9 @@
     <Filter Include="Source Files\recursive">
       <UniqueIdentifier>{667e41a2-9f8a-4d56-82d1-f27b006ac7b1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\greedy">
+      <UniqueIdentifier>{62ac0198-d0dc-45c2-822a-fe4dea7fcedc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -146,6 +149,15 @@
     <ClCompile Include="tower_of_hanoi.cpp">
       <Filter>Source Files\recursive</Filter>
     </ClCompile>
+    <ClCompile Include="giving_change.cpp">
+      <Filter>Source Files\greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="fractional_knapsack.cpp">
+      <Filter>Source Files\greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="0_1_knapsack.cpp">
+      <Filter>Source Files\greedy</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="array_test.h">
@@ -179,6 +191,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="recursive_test.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="greedy_test.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

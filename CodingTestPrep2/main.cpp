@@ -12,6 +12,7 @@
 #include	"simulation_test.h"
 #include	"dp_test.h"
 #include	"recursive_test.h"
+#include	"greedy_test.h"
 
 int main()
 {
@@ -66,7 +67,12 @@ int main()
 	//LcsLengthTest();
 	//LisLengthTest();
 	//CobblestoneTest();
-	TowerOfHanoiTest();
+	//TowerOfHanoiTest();
+
+	// greedy test
+	//GivingChangeTest();
+	//FractionalKnapsackTest();
+	_0_1_KnapsackTest();
 
 	return 0;
 }
