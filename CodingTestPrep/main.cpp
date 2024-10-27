@@ -15,6 +15,12 @@
 #include	"dp_test.h"
 #include	"greedy_test.h"
 
+#include	"test1.h"
+#include	"test2.h"
+#include	"test3.h"
+#include	"test4.h"
+#include	"test5.h"
+
 void main()
 {
 	// array test
@@ -149,5 +155,30 @@ void main()
 	//BaseStationTest();
 	//GymSuitTest();
 	//MonitoringCameraTest();
-	MakingBigNumberTest();
+	//MakingBigNumberTest();
+
+	// test1
+	//MazeEscapeCommandTest();
+	//DeliverAndRecallParcelTest();
+	//PersonalInformationCollectionExpiryDateTest();
+
+	// test2
+	//Movement110Test();
+	//QuadCompressionAndCountTest();
+	//AbsentNumberAdditionTest();
+
+	// test3
+	//MaliciousUserTest();
+	//PrimeNumberInKBaseTest();
+	//SocialDistancingCheckTest();
+
+	// test4
+	//CodingTestStudyTest();
+	//MakingTwoQueuesEqualTest();
+	//NumberGameTest();
+
+	// test5
+	//GemstoneShoppingTest();
+	//UndamagedBuildingTest();
+	LottoMaxAndMinRankTest();
 }

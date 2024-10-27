@@ -45,6 +45,21 @@
     <Filter Include="Source Files\greedy">
       <UniqueIdentifier>{77b2c823-26b9-49cd-9187-83ed1b1608ce}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\test1">
+      <UniqueIdentifier>{5601ff8e-c6df-4215-b3de-7f0996310afa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\test2">
+      <UniqueIdentifier>{83c364c8-b258-415e-8006-21f4aac60933}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\test3">
+      <UniqueIdentifier>{94954376-4e8a-4753-b606-a7b2a3962e15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\test4">
+      <UniqueIdentifier>{fc7b3249-f7bc-4c53-9bbb-2a454f3df289}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\test5">
+      <UniqueIdentifier>{87c71e30-cea4-4345-88de-7f2f819dfacd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="array_test.h">
@@ -81,6 +96,21 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="greedy_test.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="test1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="test2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="test3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="test4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="test5.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -417,6 +447,51 @@
     </ClCompile>
     <ClCompile Include="making_big_number.cpp">
       <Filter>Source Files\greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="maze_escape_command.cpp">
+      <Filter>Source Files\test1</Filter>
+    </ClCompile>
+    <ClCompile Include="deliver_and_recall_parcel.cpp">
+      <Filter>Source Files\test1</Filter>
+    </ClCompile>
+    <ClCompile Include="personal_information_collection_expiry_date.cpp">
+      <Filter>Source Files\test1</Filter>
+    </ClCompile>
+    <ClCompile Include="movement_110.cpp">
+      <Filter>Source Files\test2</Filter>
+    </ClCompile>
+    <ClCompile Include="quad_compression_and_count.cpp">
+      <Filter>Source Files\test2</Filter>
+    </ClCompile>
+    <ClCompile Include="absent_number_addition.cpp">
+      <Filter>Source Files\test2</Filter>
+    </ClCompile>
+    <ClCompile Include="malicious_user.cpp">
+      <Filter>Source Files\test3</Filter>
+    </ClCompile>
+    <ClCompile Include="prime_numbers_in_k_base.cpp">
+      <Filter>Source Files\test3</Filter>
+    </ClCompile>
+    <ClCompile Include="social_distancing_check.cpp">
+      <Filter>Source Files\test3</Filter>
+    </ClCompile>
+    <ClCompile Include="coding_test_study.cpp">
+      <Filter>Source Files\test4</Filter>
+    </ClCompile>
+    <ClCompile Include="making_two_queues_equal.cpp">
+      <Filter>Source Files\test4</Filter>
+    </ClCompile>
+    <ClCompile Include="number_game.cpp">
+      <Filter>Source Files\test4</Filter>
+    </ClCompile>
+    <ClCompile Include="gemstone_shopping.cpp">
+      <Filter>Source Files\test5</Filter>
+    </ClCompile>
+    <ClCompile Include="undamaged_building.cpp">
+      <Filter>Source Files\test5</Filter>
+    </ClCompile>
+    <ClCompile Include="lotto_max_and_min_rank.cpp">
+      <Filter>Source Files\test5</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
