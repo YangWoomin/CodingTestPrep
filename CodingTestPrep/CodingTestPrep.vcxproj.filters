@@ -60,6 +60,9 @@
     <Filter Include="Source Files\test5">
       <UniqueIdentifier>{87c71e30-cea4-4345-88de-7f2f819dfacd}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\heap">
+      <UniqueIdentifier>{221a59d2-2282-4191-a2c0-be350dfa3e41}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="array_test.h">
@@ -111,6 +114,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="test5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="heap_test.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -492,6 +498,12 @@
     </ClCompile>
     <ClCompile Include="lotto_max_and_min_rank.cpp">
       <Filter>Source Files\test5</Filter>
+    </ClCompile>
+    <ClCompile Include="disk_controller.cpp">
+      <Filter>Source Files\heap</Filter>
+    </ClCompile>
+    <ClCompile Include="double_priority_queue.cpp">
+      <Filter>Source Files\heap</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

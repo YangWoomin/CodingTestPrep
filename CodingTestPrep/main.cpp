@@ -21,6 +21,8 @@
 #include	"test4.h"
 #include	"test5.h"
 
+#include	"heap_test.h"
+
 void main()
 {
 	// array test
@@ -180,5 +182,9 @@ void main()
 	// test5
 	//GemstoneShoppingTest();
 	//UndamagedBuildingTest();
-	LottoMaxAndMinRankTest();
+	//LottoMaxAndMinRankTest();
+
+	// heap test
+	//DiskControllerTest();
+	DoublePriorityQueueTest();
 }

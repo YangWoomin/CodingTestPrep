@@ -135,6 +135,7 @@
     <ClInclude Include="graph_test.h" />
     <ClInclude Include="greedy_test.h" />
     <ClInclude Include="hash_test.h" />
+    <ClInclude Include="heap_test.h" />
     <ClInclude Include="queue_test.h" />
     <ClInclude Include="set_test.h" />
     <ClInclude Include="simulation_test.h" />
@@ -179,6 +180,8 @@
     <ClCompile Include="dfs_search.cpp" />
     <ClCompile Include="dijkstra.cpp" />
     <ClCompile Include="disappearing_foothold.cpp" />
+    <ClCompile Include="disk_controller.cpp" />
+    <ClCompile Include="double_priority_queue.cpp" />
     <ClCompile Include="edit_table.cpp" />
     <ClCompile Include="exterior_wall_inspection.cpp" />
     <ClCompile Include="failed_marathoner.cpp" />
