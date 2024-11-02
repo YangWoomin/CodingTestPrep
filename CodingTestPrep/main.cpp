@@ -192,5 +192,6 @@ void main()
 	// practice
 	//StarSequenceTest();
 	//AutoCompleteTest();
-	PuzzleGameChallengeTest();
+	//PuzzleGameChallengeTest();
+	FindingCollisionRiskTest();
 }
