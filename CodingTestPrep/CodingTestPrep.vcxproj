@@ -156,6 +156,7 @@
     <ClCompile Include="array_control.cpp" />
     <ClCompile Include="array_cut.cpp" />
     <ClCompile Include="array_multiply.cpp" />
+    <ClCompile Include="auto_complete.cpp" />
     <ClCompile Include="base_station.cpp" />
     <ClCompile Include="bellman_ford.cpp" />
     <ClCompile Include="best_album.cpp" />

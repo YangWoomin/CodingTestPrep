@@ -190,5 +190,6 @@ void main()
 	//DoublePriorityQueueTest();
 
 	// practice
-	StarSequenceTest();
+	//StarSequenceTest();
+	AutoCompleteTest();
 }
