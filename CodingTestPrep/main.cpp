@@ -22,6 +22,7 @@
 #include	"test5.h"
 
 #include	"heap_test.h"
+#include	"practice.h"
 
 void main()
 {
@@ -186,5 +187,8 @@ void main()
 
 	// heap test
 	//DiskControllerTest();
-	DoublePriorityQueueTest();
+	//DoublePriorityQueueTest();
+
+	// practice
+	StarSequenceTest();
 }

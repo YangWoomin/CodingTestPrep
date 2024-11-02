@@ -136,6 +136,7 @@
     <ClInclude Include="greedy_test.h" />
     <ClInclude Include="hash_test.h" />
     <ClInclude Include="heap_test.h" />
+    <ClInclude Include="practice.h" />
     <ClInclude Include="queue_test.h" />
     <ClInclude Include="set_test.h" />
     <ClInclude Include="simulation_test.h" />
@@ -255,6 +256,7 @@
     <ClCompile Include="pick_up_dolls.cpp" />
     <ClCompile Include="remove_pair.cpp" />
     <ClCompile Include="rotate_bracket.cpp" />
+    <ClCompile Include="star_sequence.cpp" />
     <ClCompile Include="stock_price.cpp" />
     <ClCompile Include="string_search.cpp" />
     <ClCompile Include="sudoku_puzzle.cpp" />

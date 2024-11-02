@@ -63,6 +63,9 @@
     <Filter Include="Source Files\heap">
       <UniqueIdentifier>{221a59d2-2282-4191-a2c0-be350dfa3e41}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\practice">
+      <UniqueIdentifier>{00d12512-3895-42e2-b307-00bed538dfcd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="array_test.h">
@@ -117,6 +120,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="heap_test.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="practice.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -504,6 +510,9 @@
     </ClCompile>
     <ClCompile Include="double_priority_queue.cpp">
       <Filter>Source Files\heap</Filter>
+    </ClCompile>
+    <ClCompile Include="star_sequence.cpp">
+      <Filter>Source Files\practice</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
