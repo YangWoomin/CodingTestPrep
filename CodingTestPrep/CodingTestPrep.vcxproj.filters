@@ -517,5 +517,8 @@
     <ClCompile Include="auto_complete.cpp">
       <Filter>Source Files\practice</Filter>
     </ClCompile>
+    <ClCompile Include="puzzle_game_challenge.cpp">
+      <Filter>Source Files\practice</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -239,6 +239,7 @@
     <ClCompile Include="power_network_division.cpp" />
     <ClCompile Include="predict_match.cpp" />
     <ClCompile Include="prime_numbers_in_k_base.cpp" />
+    <ClCompile Include="puzzle_game_challenge.cpp" />
     <ClCompile Include="pyramid_toothbrush_sell.cpp" />
     <ClCompile Include="quad_compression_and_count.cpp" />
     <ClCompile Include="quick_sort.cpp" />

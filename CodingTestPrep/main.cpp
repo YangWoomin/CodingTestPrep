@@ -191,5 +191,6 @@ void main()
 
 	// practice
 	//StarSequenceTest();
-	AutoCompleteTest();
+	//AutoCompleteTest();
+	PuzzleGameChallengeTest();
 }
