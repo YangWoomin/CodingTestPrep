@@ -193,5 +193,7 @@ void main()
 	//StarSequenceTest();
 	//AutoCompleteTest();
 	//PuzzleGameChallengeTest();
-	FindingCollisionRiskTest();
+	//FindingCollisionRiskTest();
+	//RicochetRobotTest();
+	WordConversionTest();
 }

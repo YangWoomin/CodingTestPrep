@@ -247,6 +247,7 @@
     <ClCompile Include="repeat_binary_conversion.cpp" />
     <ClCompile Include="report_mail.cpp" />
     <ClCompile Include="ranking.cpp" />
+    <ClCompile Include="ricochet_robot.cpp" />
     <ClCompile Include="roll_cake_cutting.cpp" />
     <ClCompile Include="rotate_matrix.cpp" />
     <ClCompile Include="sheep_and_wolf.cpp" />
@@ -281,6 +282,7 @@
     <ClCompile Include="vowel_dictionary.cpp" />
     <ClCompile Include="way_to_school.cpp" />
     <ClCompile Include="word_chain_game.cpp" />
+    <ClCompile Include="word_conversion.cpp" />
     <ClCompile Include="word_puzzle.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -11,3 +11,9 @@ void PuzzleGameChallengeTest();
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/340211
 void FindingCollisionRiskTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/169199
+void RicochetRobotTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/43163
+void WordConversionTest();

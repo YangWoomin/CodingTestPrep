@@ -523,5 +523,11 @@
     <ClCompile Include="finding_collision_risk.cpp">
       <Filter>Source Files\practice</Filter>
     </ClCompile>
+    <ClCompile Include="ricochet_robot.cpp">
+      <Filter>Source Files\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="word_conversion.cpp">
+      <Filter>Source Files\practice</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
