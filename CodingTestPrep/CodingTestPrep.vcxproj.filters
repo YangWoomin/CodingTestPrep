@@ -532,5 +532,11 @@
     <ClCompile Include="doughnut_and_stick_graph.cpp">
       <Filter>Source Files\practice</Filter>
     </ClCompile>
+    <ClCompile Include="oil_drilling.cpp">
+      <Filter>Source Files\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="tower_of_hanoi.cpp">
+      <Filter>Source Files\practice</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

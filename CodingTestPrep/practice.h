@@ -20,3 +20,9 @@ void WordConversionTest();
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/258711
 void DoughnutAndStickGraphTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/250136
+void OilDrillingTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/12946
+void TowerOfHanoiTest();

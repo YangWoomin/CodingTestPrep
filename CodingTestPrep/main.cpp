@@ -196,5 +196,7 @@ void main()
 	//FindingCollisionRiskTest();
 	//RicochetRobotTest();
 	//WordConversionTest();
-	DoughnutAndStickGraphTest();
+	//DoughnutAndStickGraphTest();
+	//OilDrillingTest();
+	TowerOfHanoiTest();
 }

@@ -232,6 +232,7 @@
     <ClCompile Include="number_game.cpp" />
     <ClCompile Include="n_queen.cpp" />
     <ClCompile Include="N_representation.cpp" />
+    <ClCompile Include="oil_drilling.cpp" />
     <ClCompile Include="open_chat.cpp" />
     <ClCompile Include="path_find_game.cpp" />
     <ClCompile Include="personal_information_collection_expiry_date.cpp" />
@@ -272,6 +273,7 @@
     <ClCompile Include="theft.cpp" />
     <ClCompile Include="the_biggest_number.cpp" />
     <ClCompile Include="topography_movement.cpp" />
+    <ClCompile Include="tower_of_hanoi.cpp" />
     <ClCompile Include="track_construction.cpp" />
     <ClCompile Include="travel_route.cpp" />
     <ClCompile Include="tree_search.cpp" />
