@@ -211,6 +211,7 @@
     <ClCompile Include="josephus.cpp" />
     <ClCompile Include="joystick.cpp" />
     <ClCompile Include="jump_and_teleportation.cpp" />
+    <ClCompile Include="kakao_friends_coloring_book.cpp" />
     <ClCompile Include="knapsack_problem.cpp" />
     <ClCompile Include="kth_number.cpp" />
     <ClCompile Include="lcs_length.cpp" />

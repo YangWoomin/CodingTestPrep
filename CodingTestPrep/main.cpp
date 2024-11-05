@@ -205,5 +205,6 @@ void main()
 	//_3XNTilingTest();
 
 	// practice 2
-	NextLargeNumberTest();
+	//NextLargeNumberTest();
+	KakaoFriendsColoringBookTest();
 }
