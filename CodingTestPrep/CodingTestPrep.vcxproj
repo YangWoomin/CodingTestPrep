@@ -177,6 +177,7 @@
     <ClCompile Include="compression.cpp" />
     <ClCompile Include="connect_island.cpp" />
     <ClCompile Include="correct_bracket.cpp" />
+    <ClCompile Include="correct_bracket_count.cpp" />
     <ClCompile Include="counting_sort.cpp" />
     <ClCompile Include="decimal_to_binary.cpp" />
     <ClCompile Include="delivery.cpp" />

@@ -206,5 +206,6 @@ void main()
 
 	// practice 2
 	//NextLargeNumberTest();
-	KakaoFriendsColoringBookTest();
+	//KakaoFriendsColoringBookTest();
+	CorrectBracketCountTest();
 }

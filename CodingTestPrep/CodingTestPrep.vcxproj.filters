@@ -556,5 +556,8 @@
     <ClCompile Include="kakao_friends_coloring_book.cpp">
       <Filter>Source Files\practice</Filter>
     </ClCompile>
+    <ClCompile Include="correct_bracket_count.cpp">
+      <Filter>Source Files\practice</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
