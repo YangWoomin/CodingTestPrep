@@ -125,6 +125,9 @@
     <ClInclude Include="practice.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="practice2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -545,6 +548,9 @@
       <Filter>Source Files\practice</Filter>
     </ClCompile>
     <ClCompile Include="3_x_n_tiling.cpp">
+      <Filter>Source Files\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="next_large_num.cpp">
       <Filter>Source Files\practice</Filter>
     </ClCompile>
   </ItemGroup>

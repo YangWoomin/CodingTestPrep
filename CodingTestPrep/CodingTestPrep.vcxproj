@@ -137,6 +137,7 @@
     <ClInclude Include="hash_test.h" />
     <ClInclude Include="heap_test.h" />
     <ClInclude Include="practice.h" />
+    <ClInclude Include="practice2.h" />
     <ClInclude Include="queue_test.h" />
     <ClInclude Include="set_test.h" />
     <ClInclude Include="simulation_test.h" />
@@ -232,6 +233,7 @@
     <ClCompile Include="multiply_matrix_and_make_transposed.cpp" />
     <ClCompile Include="network.cpp" />
     <ClCompile Include="news_clustering.cpp" />
+    <ClCompile Include="next_large_num.cpp" />
     <ClCompile Include="number_game.cpp" />
     <ClCompile Include="n_queen.cpp" />
     <ClCompile Include="N_representation.cpp" />

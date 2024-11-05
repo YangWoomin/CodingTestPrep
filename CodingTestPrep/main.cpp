@@ -23,6 +23,7 @@
 
 #include	"heap_test.h"
 #include	"practice.h"
+#include	"practice2.h"
 
 void main()
 {
@@ -201,5 +202,8 @@ void main()
 	//TowerOfHanoiTest();
 	//NewsClusteringTest();
 	//JadenCaseTest();
-	_3XNTilingTest();
+	//_3XNTilingTest();
+
+	// practice 2
+	NextLargeNumberTest();
 }
