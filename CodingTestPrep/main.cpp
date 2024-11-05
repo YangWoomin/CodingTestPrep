@@ -200,5 +200,6 @@ void main()
 	//OilDrillingTest();
 	//TowerOfHanoiTest();
 	//NewsClusteringTest();
-	JadenCaseTest();
+	//JadenCaseTest();
+	_3XNTilingTest();
 }

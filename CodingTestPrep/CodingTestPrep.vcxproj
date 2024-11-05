@@ -151,6 +151,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2_x_n_tiling.cpp" />
+    <ClCompile Include="3_x_n_tiling.cpp" />
     <ClCompile Include="absent_number_addition.cpp" />
     <ClCompile Include="archery_competition.cpp" />
     <ClCompile Include="array_control.cpp" />

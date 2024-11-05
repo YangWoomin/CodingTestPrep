@@ -32,3 +32,6 @@ void NewsClusteringTest();
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/12951
 void JadenCaseTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/12902
+void _3XNTilingTest();
