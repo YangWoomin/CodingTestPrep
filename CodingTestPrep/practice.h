@@ -26,3 +26,9 @@ void OilDrillingTest();
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/12946
 void TowerOfHanoiTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/17677
+void NewsClusteringTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/12951
+void JadenCaseTest();

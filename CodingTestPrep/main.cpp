@@ -198,5 +198,7 @@ void main()
 	//WordConversionTest();
 	//DoughnutAndStickGraphTest();
 	//OilDrillingTest();
-	TowerOfHanoiTest();
+	//TowerOfHanoiTest();
+	//NewsClusteringTest();
+	JadenCaseTest();
 }

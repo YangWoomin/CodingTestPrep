@@ -538,5 +538,11 @@
     <ClCompile Include="tower_of_hanoi.cpp">
       <Filter>Source Files\practice</Filter>
     </ClCompile>
+    <ClCompile Include="news_clustering.cpp">
+      <Filter>Source Files\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="jaden_case.cpp">
+      <Filter>Source Files\practice</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
