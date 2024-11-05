@@ -195,5 +195,6 @@ void main()
 	//PuzzleGameChallengeTest();
 	//FindingCollisionRiskTest();
 	//RicochetRobotTest();
-	WordConversionTest();
+	//WordConversionTest();
+	DoughnutAndStickGraphTest();
 }

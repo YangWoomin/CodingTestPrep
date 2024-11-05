@@ -17,3 +17,6 @@ void RicochetRobotTest();
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/43163
 void WordConversionTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/258711
+void DoughnutAndStickGraphTest();

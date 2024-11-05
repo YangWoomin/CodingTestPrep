@@ -184,6 +184,7 @@
     <ClCompile Include="disappearing_foothold.cpp" />
     <ClCompile Include="disk_controller.cpp" />
     <ClCompile Include="double_priority_queue.cpp" />
+    <ClCompile Include="doughnut_and_stick_graph.cpp" />
     <ClCompile Include="edit_table.cpp" />
     <ClCompile Include="exterior_wall_inspection.cpp" />
     <ClCompile Include="failed_marathoner.cpp" />

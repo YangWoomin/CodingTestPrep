@@ -529,5 +529,8 @@
     <ClCompile Include="word_conversion.cpp">
       <Filter>Source Files\practice</Filter>
     </ClCompile>
+    <ClCompile Include="doughnut_and_stick_graph.cpp">
+      <Filter>Source Files\practice</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
