@@ -207,5 +207,7 @@ void main()
 	// practice 2
 	//NextLargeNumberTest();
 	//KakaoFriendsColoringBookTest();
-	CorrectBracketCountTest();
+	//CorrectBracketCountTest();
+	//NumberOf124NationTest();
+	LongJumpTest();
 }

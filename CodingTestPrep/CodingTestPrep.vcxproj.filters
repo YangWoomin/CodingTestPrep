@@ -559,5 +559,11 @@
     <ClCompile Include="correct_bracket_count.cpp">
       <Filter>Source Files\practice</Filter>
     </ClCompile>
+    <ClCompile Include="number_of_124_nation.cpp">
+      <Filter>Source Files\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="long_jump.cpp">
+      <Filter>Source Files\practice</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
