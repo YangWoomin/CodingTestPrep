@@ -209,5 +209,6 @@ void main()
 	//KakaoFriendsColoringBookTest();
 	//CorrectBracketCountTest();
 	//NumberOf124NationTest();
-	LongJumpTest();
+	//LongJumpTest();
+	RepresentationOfNumberTest();
 }

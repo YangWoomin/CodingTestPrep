@@ -258,6 +258,7 @@
     <ClCompile Include="repeat_binary_conversion.cpp" />
     <ClCompile Include="report_mail.cpp" />
     <ClCompile Include="ranking.cpp" />
+    <ClCompile Include="representation_of_number.cpp" />
     <ClCompile Include="ricochet_robot.cpp" />
     <ClCompile Include="roll_cake_cutting.cpp" />
     <ClCompile Include="rotate_matrix.cpp" />

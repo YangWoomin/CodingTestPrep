@@ -14,3 +14,6 @@ void NumberOf124NationTest();
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/12914
 void LongJumpTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/12924
+void RepresentationOfNumberTest();
