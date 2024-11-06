@@ -231,6 +231,7 @@
     <ClCompile Include="menu_renewal.cpp" />
     <ClCompile Include="merge_sort.cpp" />
     <ClCompile Include="merge_two_arrays.cpp" />
+    <ClCompile Include="method_of_lining_up.cpp" />
     <ClCompile Include="monitoring_camera.cpp" />
     <ClCompile Include="movement_110.cpp" />
     <ClCompile Include="multiply_matrix_and_make_transposed.cpp" />

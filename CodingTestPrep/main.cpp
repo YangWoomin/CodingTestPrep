@@ -210,5 +210,6 @@ void main()
 	//CorrectBracketCountTest();
 	//NumberOf124NationTest();
 	//LongJumpTest();
-	RepresentationOfNumberTest();
+	//RepresentationOfNumberTest();
+	MethodOfLiningUpTest();
 }
