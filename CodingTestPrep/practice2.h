@@ -20,3 +20,6 @@ void RepresentationOfNumberTest();
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/12936
 void MethodOfLiningUpTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/152996
+void SeesawPartnerTest();

@@ -571,5 +571,8 @@
     <ClCompile Include="method_of_lining_up.cpp">
       <Filter>Source Files\practice</Filter>
     </ClCompile>
+    <ClCompile Include="seesaw_partner.cpp">
+      <Filter>Source Files\practice</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

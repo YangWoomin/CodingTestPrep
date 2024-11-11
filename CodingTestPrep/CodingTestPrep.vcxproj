@@ -263,6 +263,7 @@
     <ClCompile Include="ricochet_robot.cpp" />
     <ClCompile Include="roll_cake_cutting.cpp" />
     <ClCompile Include="rotate_matrix.cpp" />
+    <ClCompile Include="seesaw_partner.cpp" />
     <ClCompile Include="sheep_and_wolf.cpp" />
     <ClCompile Include="simple_union_find.cpp" />
     <ClCompile Include="social_distancing_check.cpp" />

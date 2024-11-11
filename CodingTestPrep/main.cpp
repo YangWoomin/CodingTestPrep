@@ -211,5 +211,6 @@ void main()
 	//NumberOf124NationTest();
 	//LongJumpTest();
 	//RepresentationOfNumberTest();
-	MethodOfLiningUpTest();
+	//MethodOfLiningUpTest();
+	SeesawPartnerTest();
 }
