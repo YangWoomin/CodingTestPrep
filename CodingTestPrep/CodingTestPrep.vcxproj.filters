@@ -574,5 +574,8 @@
     <ClCompile Include="seesaw_partner.cpp">
       <Filter>Source Files\practice</Filter>
     </ClCompile>
+    <ClCompile Include="finding_prime_numbers.cpp">
+      <Filter>Source Files\practice</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

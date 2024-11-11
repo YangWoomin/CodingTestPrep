@@ -197,6 +197,7 @@
     <ClCompile Include="fibonacci_number.cpp" />
     <ClCompile Include="file_name_sort.cpp" />
     <ClCompile Include="finding_collision_risk.cpp" />
+    <ClCompile Include="finding_prime_numbers.cpp" />
     <ClCompile Include="finding_the_biggest_triangle.cpp" />
     <ClCompile Include="function_develop.cpp" />
     <ClCompile Include="gemstone_shopping.cpp" />

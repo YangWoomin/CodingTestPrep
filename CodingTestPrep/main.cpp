@@ -212,5 +212,6 @@ void main()
 	//LongJumpTest();
 	//RepresentationOfNumberTest();
 	//MethodOfLiningUpTest();
-	SeesawPartnerTest();
+	//SeesawPartnerTest();
+	FindingPrimeNumbersTest();
 }

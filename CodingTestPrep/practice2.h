@@ -23,3 +23,6 @@ void MethodOfLiningUpTest();
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/152996
 void SeesawPartnerTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/42839
+void FindingPrimeNumbersTest();
