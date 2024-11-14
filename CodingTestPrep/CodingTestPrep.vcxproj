@@ -241,6 +241,7 @@
     <ClCompile Include="next_large_num.cpp" />
     <ClCompile Include="number_game.cpp" />
     <ClCompile Include="number_of_124_nation.cpp" />
+    <ClCompile Include="n_least_common_multiple.cpp" />
     <ClCompile Include="n_numeral_system_game.cpp" />
     <ClCompile Include="n_queen.cpp" />
     <ClCompile Include="N_representation.cpp" />

@@ -214,5 +214,6 @@ void main()
 	//MethodOfLiningUpTest();
 	//SeesawPartnerTest();
 	//FindingPrimeNumbersTest();
-	NNumeralSystemGameTest();
+	//NNumeralSystemGameTest();
+	NLeastCommonMultipleTest();
 }
