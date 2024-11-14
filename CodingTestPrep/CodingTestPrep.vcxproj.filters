@@ -577,5 +577,8 @@
     <ClCompile Include="finding_prime_numbers.cpp">
       <Filter>Source Files\practice</Filter>
     </ClCompile>
+    <ClCompile Include="n_numeral_system_game.cpp">
+      <Filter>Source Files\practice</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

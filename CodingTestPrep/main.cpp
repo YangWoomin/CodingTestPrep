@@ -213,5 +213,6 @@ void main()
 	//RepresentationOfNumberTest();
 	//MethodOfLiningUpTest();
 	//SeesawPartnerTest();
-	FindingPrimeNumbersTest();
+	//FindingPrimeNumbersTest();
+	NNumeralSystemGameTest();
 }
