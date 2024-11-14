@@ -215,5 +215,6 @@ void main()
 	//SeesawPartnerTest();
 	//FindingPrimeNumbersTest();
 	//NNumeralSystemGameTest();
-	NLeastCommonMultipleTest();
+	//NLeastCommonMultipleTest();
+	NumberBlockTest();
 }

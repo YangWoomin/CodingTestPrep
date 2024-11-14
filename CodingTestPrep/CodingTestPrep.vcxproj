@@ -239,6 +239,7 @@
     <ClCompile Include="network.cpp" />
     <ClCompile Include="news_clustering.cpp" />
     <ClCompile Include="next_large_num.cpp" />
+    <ClCompile Include="number_block.cpp" />
     <ClCompile Include="number_game.cpp" />
     <ClCompile Include="number_of_124_nation.cpp" />
     <ClCompile Include="n_least_common_multiple.cpp" />

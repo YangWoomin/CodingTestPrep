@@ -32,3 +32,6 @@ void NNumeralSystemGameTest();
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/12953
 void NLeastCommonMultipleTest();
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/12923
+void NumberBlockTest();
