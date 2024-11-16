@@ -167,6 +167,7 @@
     <ClCompile Include="bracket_match.cpp" />
     <ClCompile Include="bubble_sort.cpp" />
     <ClCompile Include="budget.cpp" />
+    <ClCompile Include="cache.cpp" />
     <ClCompile Include="card_bundle.cpp" />
     <ClCompile Include="carpet.cpp" />
     <ClCompile Include="character_coordinate.cpp" />

@@ -218,5 +218,6 @@ void main()
 	//NLeastCommonMultipleTest();
 	//NumberBlockTest();
 	//TakingGroupPhotoTest();
-	FriendsBlockTest();
+	//FriendsBlockTest();
+	CacheTest();
 }
