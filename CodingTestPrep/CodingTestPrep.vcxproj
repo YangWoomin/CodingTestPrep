@@ -284,6 +284,7 @@
     <ClCompile Include="sudoku_puzzle.cpp" />
     <ClCompile Include="sum_combination_for_10.cpp" />
     <ClCompile Include="taking_change.cpp" />
+    <ClCompile Include="taking_group_photo.cpp" />
     <ClCompile Include="tangerine_selection.cpp" />
     <ClCompile Include="target_number.cpp" />
     <ClCompile Include="theft.cpp" />

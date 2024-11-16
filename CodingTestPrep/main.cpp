@@ -216,5 +216,6 @@ void main()
 	//FindingPrimeNumbersTest();
 	//NNumeralSystemGameTest();
 	//NLeastCommonMultipleTest();
-	NumberBlockTest();
+	//NumberBlockTest();
+	TakingGroupPhotoTest();
 }
