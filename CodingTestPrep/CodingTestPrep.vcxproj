@@ -291,6 +291,7 @@
     <ClCompile Include="target_number.cpp" />
     <ClCompile Include="theft.cpp" />
     <ClCompile Include="the_biggest_number.cpp" />
+    <ClCompile Include="the_song_just_now.cpp" />
     <ClCompile Include="topography_movement.cpp" />
     <ClCompile Include="tower_of_hanoi.cpp" />
     <ClCompile Include="track_construction.cpp" />

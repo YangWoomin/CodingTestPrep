@@ -219,5 +219,6 @@ void main()
 	//NumberBlockTest();
 	//TakingGroupPhotoTest();
 	//FriendsBlockTest();
-	CacheTest();
+	//CacheTest();
+	TheSongJustNowTest();
 }
