@@ -589,5 +589,8 @@
     <ClCompile Include="taking_group_photo.cpp">
       <Filter>Source Files\practice</Filter>
     </ClCompile>
+    <ClCompile Include="friends_block.cpp">
+      <Filter>Source Files\practice</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

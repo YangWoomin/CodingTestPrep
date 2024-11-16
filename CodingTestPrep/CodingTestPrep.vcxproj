@@ -199,6 +199,7 @@
     <ClCompile Include="finding_collision_risk.cpp" />
     <ClCompile Include="finding_prime_numbers.cpp" />
     <ClCompile Include="finding_the_biggest_triangle.cpp" />
+    <ClCompile Include="friends_block.cpp" />
     <ClCompile Include="function_develop.cpp" />
     <ClCompile Include="gemstone_shopping.cpp" />
     <ClCompile Include="give_up_math.cpp" />

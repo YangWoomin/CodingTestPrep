@@ -217,5 +217,6 @@ void main()
 	//NNumeralSystemGameTest();
 	//NLeastCommonMultipleTest();
 	//NumberBlockTest();
-	TakingGroupPhotoTest();
+	//TakingGroupPhotoTest();
+	FriendsBlockTest();
 }
